@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Courses - GITC</title>
+	<atom:link href="/course-category/ios-swift-online/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Information Technologies Center</description>
+	<lastBuildDate>Sun, 20 Nov 2022 11:57:26 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.1.1</generator>
+
+<image>
+	<url>/wp-content/uploads/2022/09/cropped-268407021_2969773193239461_6353362885231601_n-32x32.jpg</url>
+	<title>Courses - GITC</title>
+	<link>/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>iOS/SWIFT online</title>
+		<link>/courses/your-complete-guide-to-photography/</link>
+		
+		<dc:creator><![CDATA[amalya]]></dc:creator>
+		<pubDate>Tue, 03 Nov 2015 02:13:11 +0000</pubDate>
+				<guid isPermaLink="false">http://demo.thimpress.com/eduma/?post_type=lpr_course&#038;p=1773</guid>
+
+					<description><![CDATA[Photography Masterclass: Your Complete Guide to Photography. The Best Selling Online Professional Photography Class: How to Take &#038; Sell Photos.]]></description>
+										<content:encoded><![CDATA[<h4>Start Day:</h4>
+<h4>Duration: 6 months</h4>
+<h4>Weekly: 6 hours</h4>
+<h4>Price: 35,000 AMD per month</h4>
+<h4>Level: beginner</h4>
+]]></content:encoded>
+					
+		
+		
+			</item>
+	</channel>
+</rss>

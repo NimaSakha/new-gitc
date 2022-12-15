@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Courses - GITC</title>
+	<atom:link href="/course-category/javascript/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Information Technologies Center</description>
+	<lastBuildDate>Mon, 05 Dec 2022 10:20:48 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.1.1</generator>
+
+<image>
+	<url>/wp-content/uploads/2022/09/cropped-268407021_2969773193239461_6353362885231601_n-32x32.jpg</url>
+	<title>Courses - GITC</title>
+	<link>/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>JavaScript</title>
+		<link>/courses/become-a-php-master-and-make-money-fast/</link>
+		
+		<dc:creator><![CDATA[amalya]]></dc:creator>
+		<pubDate>Wed, 16 Dec 2015 15:40:23 +0000</pubDate>
+				<guid isPermaLink="false">http://demo.thimpress.com/eduma/?post_type=lpr_course&#038;p=3363</guid>
+
+					<description><![CDATA[This tutorial will introduce you to PHP, a server-side scripting language you can use to make dynamic websites and web applications.]]></description>
+										<content:encoded><![CDATA[<h4>JavaScript offline Yerevan<br />
+Start Day: &#8211;<br />
+Duration: 6 months<br />
+Weekly: 6 hours<br />
+Price: 35,000 AMD per month<br />
+Level: beginner</h4>
+<h4>JavaScript online<br />
+Start Day: &#8211;<br />
+Duration: 6 months<br />
+Weekly: 6 hours<br />
+Price: 25,000 AMD per month<br />
+Level: beginner</h4>
+<h4>JavaScript offline Gyumri<br />
+Start Day: &#8211;<br />
+Duration: 6 months<br />
+Weekly: 6 hours<br />
+Price: 25,000 AMD per month<br />
+Level: beginner</h4>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+	</channel>
+</rss>

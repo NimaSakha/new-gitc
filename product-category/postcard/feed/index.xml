@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Postcard &#8211; GITC</title>
+	<atom:link href="/product-category/postcard/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Information Technologies Center</description>
+	<lastBuildDate>Fri, 07 Jun 2013 11:35:18 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.1.1</generator>
+
+<image>
+	<url>/wp-content/uploads/2022/09/cropped-268407021_2969773193239461_6353362885231601_n-32x32.jpg</url>
+	<title>Postcard &#8211; GITC</title>
+	<link>/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>A Magic School for Girls Chapter</title>
+		<link>/product/wood-postcard/</link>
+		
+		<dc:creator><![CDATA[amalya]]></dc:creator>
+		<pubDate>Fri, 07 Jun 2013 11:35:18 +0000</pubDate>
+				<guid isPermaLink="false">http://demo2.woothemes.com/woocommerce/?post_type=product&#038;p=90</guid>
+
+					<description><![CDATA[Nam molestie, enim a blandit tempus, massa ante pretium lacus, bibendum eleifend augue tellus vitae nisl. Nullam sed sapien ante.]]></description>
+										<content:encoded><![CDATA[<p>Nam molestie, enim a blandit tempus, massa ante pretium lacus, bibendum eleifend augue tellus vitae nisl. Nullam sed sapien ante.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>In Case You&#8217;re Curious</title>
+		<link>/product/klappkarte-kreuzstich/</link>
+		
+		<dc:creator><![CDATA[amalya]]></dc:creator>
+		<pubDate>Fri, 07 Jun 2013 11:02:31 +0000</pubDate>
+				<guid isPermaLink="false">http://demo2.woothemes.com/woocommerce/?post_type=product&#038;p=47</guid>
+
+					<description><![CDATA[Donec feugiat mauris non quam efficitur mollis. Etiam ornare neque id lacus tempus, at rhoncus tortor placerat. Nunc eu tempus elit. Nulla blandit sapien non dictum dictum.]]></description>
+										<content:encoded><![CDATA[<p>Donec feugiat mauris non quam efficitur mollis. Etiam ornare neque id lacus tempus, at rhoncus tortor placerat. Nunc eu tempus elit. Nulla blandit sapien non dictum dictum.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>The Complete Shopify Store</title>
+		<link>/product/buschla/</link>
+		
+		<dc:creator><![CDATA[amalya]]></dc:creator>
+		<pubDate>Fri, 07 Jun 2013 10:41:52 +0000</pubDate>
+				<guid isPermaLink="false">http://demo2.woothemes.com/woocommerce/?post_type=product&#038;p=19</guid>
+
+					<description><![CDATA[Aenean porta sit amet ipsum et pretium. In tempor mauris lectus, non tempor diam facilisis id. Nam nec magna metus. Sed ut risus tincidunt risus tempor venenatis. Proin imperdiet quis nisi sed tristique.]]></description>
+										<content:encoded><![CDATA[<p>Aenean porta sit amet ipsum et pretium. In tempor mauris lectus, non tempor diam facilisis id. Nam nec magna metus. Sed ut risus tincidunt risus tempor venenatis. Proin imperdiet quis nisi sed tristique.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+	</channel>
+</rss>

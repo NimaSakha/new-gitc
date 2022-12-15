@@ -1,0 +1,521 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>GITC</title>
+	<atom:link href="/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Information Technologies Center</description>
+	<lastBuildDate>Fri, 25 Nov 2022 11:51:28 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.1.1</generator>
+
+<image>
+	<url>/wp-content/uploads/2022/09/cropped-268407021_2969773193239461_6353362885231601_n-32x32.jpg</url>
+	<title>GITC</title>
+	<link>/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Ensuring employment through capacity building</title>
+		<link>/ensuring-employment-through-capacity-building/</link>
+					<comments>/ensuring-employment-through-capacity-building/#respond</comments>
+		
+		<dc:creator><![CDATA[amalya]]></dc:creator>
+		<pubDate>Wed, 09 Nov 2022 10:12:20 +0000</pubDate>
+				<category><![CDATA[Projects]]></category>
+		<guid isPermaLink="false">http://demo.thimpress.com/eduma/?p=71</guid>
+
+					<description><![CDATA[Gyumri Information Tecnologies Center has started another important cooperation with HSBC Armenia. HSBC Armenia, emphasizing the balanced development and empowerment of regions by promoting job creation through technological education, finances and supports the implementation of &#8220;Ensuring employment through capacity building&#8221; &#8230; ]]></description>
+										<content:encoded><![CDATA[		<div data-elementor-type="wp-post" data-elementor-id="71" class="elementor elementor-71">
+									<section class="elementor-section elementor-top-section elementor-element elementor-element-656e19b7 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="656e19b7" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-5d96acf6" data-id="5d96acf6" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-3ddff187 elementor-widget elementor-widget-text-editor" data-id="3ddff187" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+			<style>/*! elementor - v3.7.7 - 20-09-2022 */
+.elementor-widget-text-editor.elementor-drop-cap-view-stacked .elementor-drop-cap{background-color:#818a91;color:#fff}.elementor-widget-text-editor.elementor-drop-cap-view-framed .elementor-drop-cap{color:#818a91;border:3px solid;background-color:transparent}.elementor-widget-text-editor:not(.elementor-drop-cap-view-default) .elementor-drop-cap{margin-top:8px}.elementor-widget-text-editor:not(.elementor-drop-cap-view-default) .elementor-drop-cap-letter{width:1em;height:1em}.elementor-widget-text-editor .elementor-drop-cap{float:left;text-align:center;line-height:1;font-size:50px}.elementor-widget-text-editor .elementor-drop-cap-letter{display:inline-block}</style>				<p>Gyumri Information Tecnologies Center has started another important cooperation with HSBC Armenia.</p><p>HSBC Armenia, emphasizing the balanced development and empowerment of regions by promoting job creation through technological education, finances and supports the implementation of &#8220;Ensuring employment through capacity building&#8221; project in Tavush region. Socially disadvantaged individuals living in Tavush region, sufferers from Artshakh war and single mothers can apply for this program.</p><p>Within the framework of the program, the relevant beneficiaries have the opportunity to participate in the following courses free of charge:</p><ul><li>Computer skills/basic skills</li><li>Web Programming (HTML/CSS/JavaScript)</li><li>Social Media Marketing (SMM)</li><li>Graphic Design</li></ul><p>The courses have been held in a hybrid online and classroom format in cooperation with private companies in the field.</p><p>In addition to technical knowledge, the participants have received soft skills, as well as participated in interesting social events in Tavush region with HSBC Armenia and GITC representatives.</p>						</div>
+				</div>
+				<div class="elementor-element elementor-element-2d01133 gallery-spacing-custom elementor-widget elementor-widget-image-gallery" data-id="2d01133" data-element_type="widget" data-widget_type="image-gallery.default">
+				<div class="elementor-widget-container">
+			<style>.elementor-image-gallery .gallery-item{display:inline-block;text-align:center;vertical-align:top;width:100%;max-width:100%;margin:0 auto}.elementor-image-gallery .gallery-item img{margin:0 auto}.elementor-image-gallery .gallery-item .gallery-caption{margin:0}.elementor-image-gallery figure img{display:block}.elementor-image-gallery figure figcaption{width:100%}.gallery-spacing-custom .elementor-image-gallery .gallery-icon{padding:0}@media (min-width:768px){.elementor-image-gallery .gallery-columns-2 .gallery-item{max-width:50%}.elementor-image-gallery .gallery-columns-3 .gallery-item{max-width:33.33%}.elementor-image-gallery .gallery-columns-4 .gallery-item{max-width:25%}.elementor-image-gallery .gallery-columns-5 .gallery-item{max-width:20%}.elementor-image-gallery .gallery-columns-6 .gallery-item{max-width:16.666%}.elementor-image-gallery .gallery-columns-7 .gallery-item{max-width:14.28%}.elementor-image-gallery .gallery-columns-8 .gallery-item{max-width:12.5%}.elementor-image-gallery .gallery-columns-9 .gallery-item{max-width:11.11%}.elementor-image-gallery .gallery-columns-10 .gallery-item{max-width:10%}}@media (min-width:480px) and (max-width:767px){.elementor-image-gallery .gallery.gallery-columns-2 .gallery-item,.elementor-image-gallery .gallery.gallery-columns-3 .gallery-item,.elementor-image-gallery .gallery.gallery-columns-4 .gallery-item,.elementor-image-gallery .gallery.gallery-columns-5 .gallery-item,.elementor-image-gallery .gallery.gallery-columns-6 .gallery-item,.elementor-image-gallery .gallery.gallery-columns-7 .gallery-item,.elementor-image-gallery .gallery.gallery-columns-8 .gallery-item,.elementor-image-gallery .gallery.gallery-columns-9 .gallery-item,.elementor-image-gallery .gallery.gallery-columns-10 .gallery-item{max-width:50%}}@media (max-width:479px){.elementor-image-gallery .gallery.gallery-columns-2 .gallery-item,.elementor-image-gallery .gallery.gallery-columns-3 .gallery-item,.elementor-image-gallery .gallery.gallery-columns-4 .gallery-item,.elementor-image-gallery .gallery.gallery-columns-5 .gallery-item,.elementor-image-gallery .gallery.gallery-columns-6 .gallery-item,.elementor-image-gallery .gallery.gallery-columns-7 .gallery-item,.elementor-image-gallery .gallery.gallery-columns-8 .gallery-item,.elementor-image-gallery .gallery.gallery-columns-9 .gallery-item,.elementor-image-gallery .gallery.gallery-columns-10 .gallery-item{max-width:100%}}</style>		<div class="elementor-image-gallery">
+			
+<a data-elementor-open-lightbox="yes" data-elementor-lightbox-slideshow="2d01133" e-action-hash="#elementor-action%3Aaction%3Dlightbox%26settings%3DeyJpZCI6MTMxNjYsInVybCI6Imh0dHBzOlwvXC9neXVtcmkudGVjaFwvd3AtY29udGVudFwvdXBsb2Fkc1wvMjAyMlwvMTFcLzMxNDcxMDg2NF8zMjExODA1MTYyMzY5NTk1XzI2MzU4NzkyMTgwOTMwODc1Mjdfbi5qcGVnIiwic2xpZGVzaG93IjoiMmQwMTEzMyJ9" href='/wp-content/uploads/2022/11/314710864_3211805162369595_2635879218093087527_n.jpeg'><img width="1280" height="853" src="/wp-content/uploads/2022/11/314710864_3211805162369595_2635879218093087527_n.jpeg" class="attachment-full size-full" alt="" decoding="async" loading="lazy" srcset="/wp-content/uploads/2022/11/314710864_3211805162369595_2635879218093087527_n.jpeg 1280w, /wp-content/uploads/2022/11/314710864_3211805162369595_2635879218093087527_n-300x200.jpeg 300w, /wp-content/uploads/2022/11/314710864_3211805162369595_2635879218093087527_n-1024x682.jpeg 1024w, /wp-content/uploads/2022/11/314710864_3211805162369595_2635879218093087527_n-768x512.jpeg 768w, /wp-content/uploads/2022/11/314710864_3211805162369595_2635879218093087527_n-600x400.jpeg 600w" sizes="(max-width: 1280px) 100vw, 1280px" /></a>
+<a data-elementor-open-lightbox="yes" data-elementor-lightbox-slideshow="2d01133" e-action-hash="#elementor-action%3Aaction%3Dlightbox%26settings%3DeyJpZCI6MTMxNjgsInVybCI6Imh0dHBzOlwvXC9neXVtcmkudGVjaFwvd3AtY29udGVudFwvdXBsb2Fkc1wvMjAyMlwvMTFcLzMxNDc2MDIzNF8zMjExODA1MDA5MDM2Mjc3XzQ0NzY1MzMyNzgwMjAwNjE3Nl9uLmpwZWciLCJzbGlkZXNob3ciOiIyZDAxMTMzIn0%3D" href='/wp-content/uploads/2022/11/314760234_3211805009036277_447653327802006176_n.jpeg'><img width="1280" height="853" src="/wp-content/uploads/2022/11/314760234_3211805009036277_447653327802006176_n.jpeg" class="attachment-full size-full" alt="" decoding="async" loading="lazy" srcset="/wp-content/uploads/2022/11/314760234_3211805009036277_447653327802006176_n.jpeg 1280w, /wp-content/uploads/2022/11/314760234_3211805009036277_447653327802006176_n-300x200.jpeg 300w, /wp-content/uploads/2022/11/314760234_3211805009036277_447653327802006176_n-1024x682.jpeg 1024w, /wp-content/uploads/2022/11/314760234_3211805009036277_447653327802006176_n-768x512.jpeg 768w, /wp-content/uploads/2022/11/314760234_3211805009036277_447653327802006176_n-600x400.jpeg 600w" sizes="(max-width: 1280px) 100vw, 1280px" /></a>
+<a data-elementor-open-lightbox="yes" data-elementor-lightbox-slideshow="2d01133" e-action-hash="#elementor-action%3Aaction%3Dlightbox%26settings%3DeyJpZCI6MTMxNjQsInVybCI6Imh0dHBzOlwvXC9neXVtcmkudGVjaFwvd3AtY29udGVudFwvdXBsb2Fkc1wvMjAyMlwvMTFcLzFaN0hxSDF6eEJfVWd0Skw4N3VmaHp2UTlnanB2MjZ6SGEydS14OVZuLmpwZWciLCJzbGlkZXNob3ciOiIyZDAxMTMzIn0%3D" href='/wp-content/uploads/2022/11/1Z7HqH1zxB_UgtJL87ufhzvQ9gjpv26zHa2u-x9Vn.jpeg'><img width="1280" height="853" src="/wp-content/uploads/2022/11/1Z7HqH1zxB_UgtJL87ufhzvQ9gjpv26zHa2u-x9Vn.jpeg" class="attachment-full size-full" alt="" decoding="async" loading="lazy" srcset="/wp-content/uploads/2022/11/1Z7HqH1zxB_UgtJL87ufhzvQ9gjpv26zHa2u-x9Vn.jpeg 1280w, /wp-content/uploads/2022/11/1Z7HqH1zxB_UgtJL87ufhzvQ9gjpv26zHa2u-x9Vn-300x200.jpeg 300w, /wp-content/uploads/2022/11/1Z7HqH1zxB_UgtJL87ufhzvQ9gjpv26zHa2u-x9Vn-1024x682.jpeg 1024w, /wp-content/uploads/2022/11/1Z7HqH1zxB_UgtJL87ufhzvQ9gjpv26zHa2u-x9Vn-768x512.jpeg 768w, /wp-content/uploads/2022/11/1Z7HqH1zxB_UgtJL87ufhzvQ9gjpv26zHa2u-x9Vn-600x400.jpeg 600w" sizes="(max-width: 1280px) 100vw, 1280px" /></a>
+<a data-elementor-open-lightbox="yes" data-elementor-lightbox-slideshow="2d01133" e-action-hash="#elementor-action%3Aaction%3Dlightbox%26settings%3DeyJpZCI6MTMxNjksInVybCI6Imh0dHBzOlwvXC9neXVtcmkudGVjaFwvd3AtY29udGVudFwvdXBsb2Fkc1wvMjAyMlwvMTFcLzMxNDc3MjYyMF8zMjExODA1MDU5MDM2MjcyXzUxOTQzNTYwNjY3MTM4ODEyNTlfbi5qcGVnIiwic2xpZGVzaG93IjoiMmQwMTEzMyJ9" href='/wp-content/uploads/2022/11/314772620_3211805059036272_5194356066713881259_n.jpeg'><img width="1280" height="853" src="/wp-content/uploads/2022/11/314772620_3211805059036272_5194356066713881259_n.jpeg" class="attachment-full size-full" alt="" decoding="async" loading="lazy" srcset="/wp-content/uploads/2022/11/314772620_3211805059036272_5194356066713881259_n.jpeg 1280w, /wp-content/uploads/2022/11/314772620_3211805059036272_5194356066713881259_n-300x200.jpeg 300w, /wp-content/uploads/2022/11/314772620_3211805059036272_5194356066713881259_n-1024x682.jpeg 1024w, /wp-content/uploads/2022/11/314772620_3211805059036272_5194356066713881259_n-768x512.jpeg 768w, /wp-content/uploads/2022/11/314772620_3211805059036272_5194356066713881259_n-600x400.jpeg 600w" sizes="(max-width: 1280px) 100vw, 1280px" /></a>
+<a data-elementor-open-lightbox="yes" data-elementor-lightbox-slideshow="2d01133" e-action-hash="#elementor-action%3Aaction%3Dlightbox%26settings%3DeyJpZCI6MTMxNjIsInVybCI6Imh0dHBzOlwvXC9neXVtcmkudGVjaFwvd3AtY29udGVudFwvdXBsb2Fkc1wvMjAyMlwvMTFcLzFGQ2w3TTNPQTlmd2dfZFF3Z1o3cDlCUVRjUVBrVXp3OHlvc2hES2tiLmpwZWciLCJzbGlkZXNob3ciOiIyZDAxMTMzIn0%3D" href='/wp-content/uploads/2022/11/1FCl7M3OA9fwg_dQwgZ7p9BQTcQPkUzw8yoshDKkb.jpeg'><img width="1280" height="853" src="/wp-content/uploads/2022/11/1FCl7M3OA9fwg_dQwgZ7p9BQTcQPkUzw8yoshDKkb.jpeg" class="attachment-full size-full" alt="" decoding="async" loading="lazy" srcset="/wp-content/uploads/2022/11/1FCl7M3OA9fwg_dQwgZ7p9BQTcQPkUzw8yoshDKkb.jpeg 1280w, /wp-content/uploads/2022/11/1FCl7M3OA9fwg_dQwgZ7p9BQTcQPkUzw8yoshDKkb-300x200.jpeg 300w, /wp-content/uploads/2022/11/1FCl7M3OA9fwg_dQwgZ7p9BQTcQPkUzw8yoshDKkb-1024x682.jpeg 1024w, /wp-content/uploads/2022/11/1FCl7M3OA9fwg_dQwgZ7p9BQTcQPkUzw8yoshDKkb-768x512.jpeg 768w, /wp-content/uploads/2022/11/1FCl7M3OA9fwg_dQwgZ7p9BQTcQPkUzw8yoshDKkb-600x400.jpeg 600w" sizes="(max-width: 1280px) 100vw, 1280px" /></a>
+		</div>
+				</div>
+				</div>
+					</div>
+		</div>
+							</div>
+		</section>
+							</div>
+		]]></content:encoded>
+					
+					<wfw:commentRss>/ensuring-employment-through-capacity-building/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>&#8220;University-Private Sector Cooperation for the Training of Specialists&#8221;</title>
+		<link>/university-private-sector-cooperation-for-the-training-of-specialists/</link>
+					<comments>/university-private-sector-cooperation-for-the-training-of-specialists/#respond</comments>
+		
+		<dc:creator><![CDATA[amalya]]></dc:creator>
+		<pubDate>Thu, 20 Oct 2022 09:59:39 +0000</pubDate>
+				<category><![CDATA[Projects]]></category>
+		<guid isPermaLink="false">http://educationwp.thimpress.com/demo-el/?p=3699</guid>
+
+					<description><![CDATA[Within the framework of the &#8220;University-Private Sector Cooperation for the Training of Specialists&#8221; grant program announced by the Ministry of High-Tech Industry of RA, GITC implements a 6-months Artificial Intelligence course. As a result of the implementation of the project, &#8230; ]]></description>
+										<content:encoded><![CDATA[		<div data-elementor-type="wp-post" data-elementor-id="3699" class="elementor elementor-3699">
+									<section class="elementor-section elementor-top-section elementor-element elementor-element-5cd084ba elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="5cd084ba" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-5e3ce485" data-id="5e3ce485" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-6e0c5f6 gallery-spacing-custom elementor-widget elementor-widget-image-gallery" data-id="6e0c5f6" data-element_type="widget" data-widget_type="image-gallery.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-image-gallery">
+			
+<a data-elementor-open-lightbox="no" href='/wp-content/uploads/2022/10/312067481_3203879149828863_5025832350640893261_n.jpeg'><img width="1280" height="853" src="/wp-content/uploads/2022/10/312067481_3203879149828863_5025832350640893261_n.jpeg" class="attachment-full size-full" alt="" decoding="async" loading="lazy" srcset="/wp-content/uploads/2022/10/312067481_3203879149828863_5025832350640893261_n.jpeg 1280w, /wp-content/uploads/2022/10/312067481_3203879149828863_5025832350640893261_n-300x200.jpeg 300w, /wp-content/uploads/2022/10/312067481_3203879149828863_5025832350640893261_n-1024x682.jpeg 1024w, /wp-content/uploads/2022/10/312067481_3203879149828863_5025832350640893261_n-768x512.jpeg 768w, /wp-content/uploads/2022/10/312067481_3203879149828863_5025832350640893261_n-600x400.jpeg 600w" sizes="(max-width: 1280px) 100vw, 1280px" /></a>
+<a data-elementor-open-lightbox="no" href='/wp-content/uploads/2022/10/313287566_3203879016495543_1085547016680787426_n.jpeg'><img width="1280" height="853" src="/wp-content/uploads/2022/10/313287566_3203879016495543_1085547016680787426_n.jpeg" class="attachment-full size-full" alt="" decoding="async" loading="lazy" srcset="/wp-content/uploads/2022/10/313287566_3203879016495543_1085547016680787426_n.jpeg 1280w, /wp-content/uploads/2022/10/313287566_3203879016495543_1085547016680787426_n-300x200.jpeg 300w, /wp-content/uploads/2022/10/313287566_3203879016495543_1085547016680787426_n-1024x682.jpeg 1024w, /wp-content/uploads/2022/10/313287566_3203879016495543_1085547016680787426_n-768x512.jpeg 768w, /wp-content/uploads/2022/10/313287566_3203879016495543_1085547016680787426_n-600x400.jpeg 600w" sizes="(max-width: 1280px) 100vw, 1280px" /></a>
+<a data-elementor-open-lightbox="no" href='/wp-content/uploads/2022/10/311914025_3203879013162210_2929963394748449727_n.jpeg'><img width="1280" height="853" src="/wp-content/uploads/2022/10/311914025_3203879013162210_2929963394748449727_n.jpeg" class="attachment-full size-full" alt="" decoding="async" loading="lazy" srcset="/wp-content/uploads/2022/10/311914025_3203879013162210_2929963394748449727_n.jpeg 1280w, /wp-content/uploads/2022/10/311914025_3203879013162210_2929963394748449727_n-300x200.jpeg 300w, /wp-content/uploads/2022/10/311914025_3203879013162210_2929963394748449727_n-1024x682.jpeg 1024w, /wp-content/uploads/2022/10/311914025_3203879013162210_2929963394748449727_n-768x512.jpeg 768w, /wp-content/uploads/2022/10/311914025_3203879013162210_2929963394748449727_n-600x400.jpeg 600w" sizes="(max-width: 1280px) 100vw, 1280px" /></a>
+<a data-elementor-open-lightbox="no" href='/wp-content/uploads/2022/10/312245892_3203879009828877_6024494421293948316_n.jpeg'><img width="1280" height="853" src="/wp-content/uploads/2022/10/312245892_3203879009828877_6024494421293948316_n.jpeg" class="attachment-full size-full" alt="" decoding="async" loading="lazy" srcset="/wp-content/uploads/2022/10/312245892_3203879009828877_6024494421293948316_n.jpeg 1280w, /wp-content/uploads/2022/10/312245892_3203879009828877_6024494421293948316_n-300x200.jpeg 300w, /wp-content/uploads/2022/10/312245892_3203879009828877_6024494421293948316_n-1024x682.jpeg 1024w, /wp-content/uploads/2022/10/312245892_3203879009828877_6024494421293948316_n-768x512.jpeg 768w, /wp-content/uploads/2022/10/312245892_3203879009828877_6024494421293948316_n-600x400.jpeg 600w" sizes="(max-width: 1280px) 100vw, 1280px" /></a>
+<a data-elementor-open-lightbox="no" href='/wp-content/uploads/2022/10/312092585_3203879259828852_1311114184787845014_n.jpeg'><img width="1280" height="853" src="/wp-content/uploads/2022/10/312092585_3203879259828852_1311114184787845014_n.jpeg" class="attachment-full size-full" alt="" decoding="async" loading="lazy" srcset="/wp-content/uploads/2022/10/312092585_3203879259828852_1311114184787845014_n.jpeg 1280w, /wp-content/uploads/2022/10/312092585_3203879259828852_1311114184787845014_n-300x200.jpeg 300w, /wp-content/uploads/2022/10/312092585_3203879259828852_1311114184787845014_n-1024x682.jpeg 1024w, /wp-content/uploads/2022/10/312092585_3203879259828852_1311114184787845014_n-768x512.jpeg 768w, /wp-content/uploads/2022/10/312092585_3203879259828852_1311114184787845014_n-600x400.jpeg 600w" sizes="(max-width: 1280px) 100vw, 1280px" /></a>
+		</div>
+				</div>
+				</div>
+				<div class="elementor-element elementor-element-11b0239d elementor-widget elementor-widget-text-editor" data-id="11b0239d" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+							<p>Within the framework of the &#8220;University-Private Sector Cooperation for the Training of Specialists&#8221; grant program announced by the Ministry of High-Tech Industry of RA, GITC implements a 6-months Artificial Intelligence course.</p><p>As a result of the implementation of the project, educated and competitive specialists in the field of high technologies are formed, as well as re-specialized specialists have the opportunity to enter the technological sector.</p>						</div>
+				</div>
+					</div>
+		</div>
+							</div>
+		</section>
+							</div>
+		]]></content:encoded>
+					
+					<wfw:commentRss>/university-private-sector-cooperation-for-the-training-of-specialists/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>&#8220;Women&#8217;s Economic Empowerment in High-Productivity Sector&#8221;</title>
+		<link>/womens-economic-empowerment-in-high-productivity-sector/</link>
+					<comments>/womens-economic-empowerment-in-high-productivity-sector/#respond</comments>
+		
+		<dc:creator><![CDATA[amalya]]></dc:creator>
+		<pubDate>Tue, 20 Sep 2022 10:31:26 +0000</pubDate>
+				<category><![CDATA[Projects]]></category>
+		<guid isPermaLink="false">http://educationwp.thimpress.com/demo-el/?p=3696</guid>
+
+					<description><![CDATA[The &#8220;Women&#8217;s Economic Empowerment in High-Productivity Sector&#8221; program is implemented in partnership with the Ministry of Labor and Social Affairs, funded by the UAE embassy and Zayed Charitable &#38; Humanitarian Foundation. The goal of the project is to raise the &#8230; ]]></description>
+										<content:encoded><![CDATA[		<div data-elementor-type="wp-post" data-elementor-id="3696" class="elementor elementor-3696">
+									<section class="elementor-section elementor-top-section elementor-element elementor-element-4e252f74 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="4e252f74" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-50 elementor-top-column elementor-element elementor-element-cace60e" data-id="cace60e" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-5a15e231 elementor-widget elementor-widget-text-editor" data-id="5a15e231" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+							The &#8220;Women&#8217;s Economic Empowerment in High-Productivity Sector&#8221; program is implemented in partnership with the Ministry of Labor and Social Affairs, funded by the UAE embassy and Zayed Charitable &amp; Humanitarian Foundation. The goal of the project is to raise the living standards of workable single mothers in the Shirak marz by promoting their livelihoods in a high-productivity sector.
+
+The programme includes three interconnected phases in high-productivity areas: 1. training in selected specialities in high-productivity areas (mostly technological), 2. Practical internships, 3. job placement. The programme targets the marz of Shirak, one of the most vulnerable marzes of Armenia in terms of poverty and unemployment rates. Within the framework of the project, 50 participants receive knowledge in the fields of Web programming, accounting, SMM and Computer basics.						</div>
+				</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-50 elementor-top-column elementor-element elementor-element-98ad4db" data-id="98ad4db" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-e65eb02 gallery-spacing-custom elementor-widget elementor-widget-image-gallery" data-id="e65eb02" data-element_type="widget" data-widget_type="image-gallery.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-image-gallery">
+			
+<a data-elementor-open-lightbox="yes" data-elementor-lightbox-slideshow="e65eb02" e-action-hash="#elementor-action%3Aaction%3Dlightbox%26settings%3DeyJpZCI6MTMxNTIsInVybCI6Imh0dHBzOlwvXC9neXVtcmkudGVjaFwvd3AtY29udGVudFwvdXBsb2Fkc1wvMjAyMlwvMTFcL1x1MDU2Zlx1MDU2MVx1MDU3Nlx1MDU2MVx1MDU3NVx1MDU4NFx1MDU4NC5qcGVnIiwic2xpZGVzaG93IjoiZTY1ZWIwMiJ9" href='/wp-content/uploads/2022/11/կանայքք.jpeg'><img width="1600" height="1200" src="/wp-content/uploads/2022/11/կանայքք.jpeg" class="attachment-full size-full" alt="" decoding="async" loading="lazy" srcset="/wp-content/uploads/2022/11/կանայքք.jpeg 1600w, /wp-content/uploads/2022/11/կանայքք-300x225.jpeg 300w, /wp-content/uploads/2022/11/կանայքք-1024x768.jpeg 1024w, /wp-content/uploads/2022/11/կանայքք-768x576.jpeg 768w, /wp-content/uploads/2022/11/կանայքք-1536x1152.jpeg 1536w, /wp-content/uploads/2022/11/կանայքք-600x450.jpeg 600w" sizes="(max-width: 1600px) 100vw, 1600px" /></a>
+<a data-elementor-open-lightbox="yes" data-elementor-lightbox-slideshow="e65eb02" e-action-hash="#elementor-action%3Aaction%3Dlightbox%26settings%3DeyJpZCI6MTMxNTAsInVybCI6Imh0dHBzOlwvXC9neXVtcmkudGVjaFwvd3AtY29udGVudFwvdXBsb2Fkc1wvMjAyMlwvMTFcL1x1MDU2Zlx1MDU2MVx1MDU3Nlx1MDU2MVx1MDU3NVx1MDU4NC5qcGVnIiwic2xpZGVzaG93IjoiZTY1ZWIwMiJ9" href='/wp-content/uploads/2022/11/կանայք.jpeg'><img width="1560" height="1160" src="/wp-content/uploads/2022/11/կանայք.jpeg" class="attachment-full size-full" alt="" decoding="async" loading="lazy" srcset="/wp-content/uploads/2022/11/կանայք.jpeg 1560w, /wp-content/uploads/2022/11/կանայք-300x223.jpeg 300w, /wp-content/uploads/2022/11/կանայք-1024x761.jpeg 1024w, /wp-content/uploads/2022/11/կանայք-768x571.jpeg 768w, /wp-content/uploads/2022/11/կանայք-1536x1142.jpeg 1536w, /wp-content/uploads/2022/11/կանայք-600x446.jpeg 600w" sizes="(max-width: 1560px) 100vw, 1560px" /></a>
+		</div>
+				</div>
+				</div>
+					</div>
+		</div>
+							</div>
+		</section>
+							</div>
+		]]></content:encoded>
+					
+					<wfw:commentRss>/womens-economic-empowerment-in-high-productivity-sector/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>&#8220;Young Innovators &#8211; Future Leaders&#8221; hackathon</title>
+		<link>/young-innovators-future-leaders-hackathon/</link>
+					<comments>/young-innovators-future-leaders-hackathon/#respond</comments>
+		
+		<dc:creator><![CDATA[amalya]]></dc:creator>
+		<pubDate>Sun, 17 Jul 2022 10:29:10 +0000</pubDate>
+				<category><![CDATA[Projects]]></category>
+		<guid isPermaLink="false">/?p=13301</guid>
+
+					<description><![CDATA[&#8220;Young Innovators &#8211; Future Leaders&#8221; hackathon was organized by the EU4Business Innovative Tourism for Armenia project in cooperation with GITC &#8211; Information Technologies Center. The purpose of the initiative is to create innovative solutions tackling traditional sectors in Armenia and &#8230; ]]></description>
+										<content:encoded><![CDATA[		<div data-elementor-type="wp-post" data-elementor-id="13301" class="elementor elementor-13301">
+									<section class="elementor-section elementor-top-section elementor-element elementor-element-656e19b7 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="656e19b7" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-5d96acf6" data-id="5d96acf6" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-3ddff187 elementor-widget elementor-widget-text-editor" data-id="3ddff187" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+							<p>&#8220;Young Innovators &#8211; Future Leaders&#8221; hackathon was organized by the EU4Business Innovative Tourism for Armenia project in cooperation with GITC &#8211; Information Technologies Center. The purpose of the initiative is to create innovative solutions tackling traditional sectors in Armenia and economic issues unique to the local community. After receiving more than 100 applications, shortlisted teams were interviewed to present their ideas in detail, according to the idea teams were directed to mentoring sessions. “Young Innovators &#8211; Future Unicorns&#8221; Hackathon participants had pitching performances on June 5. Young innovators arrived from all regions of Armenia to jointly present technological solutions. 24 teams had pitches and presented their ideas aimed at strengthening our country. The most innovative ideas were selected from among the powerful ones with great difficulty.</p>						</div>
+				</div>
+				<div class="elementor-element elementor-element-2d01133 gallery-spacing-custom elementor-widget elementor-widget-image-gallery" data-id="2d01133" data-element_type="widget" data-widget_type="image-gallery.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-image-gallery">
+			
+<a data-elementor-open-lightbox="yes" data-elementor-lightbox-slideshow="2d01133" e-action-hash="#elementor-action%3Aaction%3Dlightbox%26settings%3DeyJpZCI6MTMzMTEsInVybCI6Imh0dHBzOlwvXC9neXVtcmkudGVjaFwvd3AtY29udGVudFwvdXBsb2Fkc1wvMjAyMlwvMDdcL2p1cnkuanBnIiwic2xpZGVzaG93IjoiMmQwMTEzMyJ9" href='/wp-content/uploads/2022/07/jury.jpg'><img width="2048" height="1365" src="/wp-content/uploads/2022/07/jury.jpg" class="attachment-full size-full" alt="" decoding="async" loading="lazy" srcset="/wp-content/uploads/2022/07/jury.jpg 2048w, /wp-content/uploads/2022/07/jury-300x200.jpg 300w, /wp-content/uploads/2022/07/jury-1024x683.jpg 1024w, /wp-content/uploads/2022/07/jury-768x512.jpg 768w, /wp-content/uploads/2022/07/jury-1536x1024.jpg 1536w, /wp-content/uploads/2022/07/jury-600x400.jpg 600w" sizes="(max-width: 2048px) 100vw, 2048px" /></a>
+<a data-elementor-open-lightbox="yes" data-elementor-lightbox-slideshow="2d01133" e-action-hash="#elementor-action%3Aaction%3Dlightbox%26settings%3DeyJpZCI6MTMzMTIsInVybCI6Imh0dHBzOlwvXC9neXVtcmkudGVjaFwvd3AtY29udGVudFwvdXBsb2Fkc1wvMjAyMlwvMDdcL2hhY2thdGhvbi13aW5uZXJzLmpwZyIsInNsaWRlc2hvdyI6IjJkMDExMzMifQ%3D%3D" data-elementor-lightbox-title="hackathon winners" href='/wp-content/uploads/2022/07/hackathon-winners.jpg'><img width="2048" height="1365" src="/wp-content/uploads/2022/07/hackathon-winners.jpg" class="attachment-full size-full" alt="" decoding="async" loading="lazy" srcset="/wp-content/uploads/2022/07/hackathon-winners.jpg 2048w, /wp-content/uploads/2022/07/hackathon-winners-300x200.jpg 300w, /wp-content/uploads/2022/07/hackathon-winners-1024x683.jpg 1024w, /wp-content/uploads/2022/07/hackathon-winners-768x512.jpg 768w, /wp-content/uploads/2022/07/hackathon-winners-1536x1024.jpg 1536w, /wp-content/uploads/2022/07/hackathon-winners-600x400.jpg 600w" sizes="(max-width: 2048px) 100vw, 2048px" /></a>
+<a data-elementor-open-lightbox="yes" data-elementor-lightbox-slideshow="2d01133" e-action-hash="#elementor-action%3Aaction%3Dlightbox%26settings%3DeyJpZCI6MTMzMTMsInVybCI6Imh0dHBzOlwvXC9neXVtcmkudGVjaFwvd3AtY29udGVudFwvdXBsb2Fkc1wvMjAyMlwvMDdcL2hhY2thdGhvbi13aW5uZXJzLTQuanBnIiwic2xpZGVzaG93IjoiMmQwMTEzMyJ9" data-elementor-lightbox-title="hackathon winners" href='/wp-content/uploads/2022/07/hackathon-winners-4.jpg'><img width="2048" height="1365" src="/wp-content/uploads/2022/07/hackathon-winners-4.jpg" class="attachment-full size-full" alt="" decoding="async" loading="lazy" srcset="/wp-content/uploads/2022/07/hackathon-winners-4.jpg 2048w, /wp-content/uploads/2022/07/hackathon-winners-4-300x200.jpg 300w, /wp-content/uploads/2022/07/hackathon-winners-4-1024x683.jpg 1024w, /wp-content/uploads/2022/07/hackathon-winners-4-768x512.jpg 768w, /wp-content/uploads/2022/07/hackathon-winners-4-1536x1024.jpg 1536w, /wp-content/uploads/2022/07/hackathon-winners-4-600x400.jpg 600w" sizes="(max-width: 2048px) 100vw, 2048px" /></a>
+<a data-elementor-open-lightbox="yes" data-elementor-lightbox-slideshow="2d01133" e-action-hash="#elementor-action%3Aaction%3Dlightbox%26settings%3DeyJpZCI6MTMzMTQsInVybCI6Imh0dHBzOlwvXC9neXVtcmkudGVjaFwvd3AtY29udGVudFwvdXBsb2Fkc1wvMjAyMlwvMDdcL2hhY2thdGhvbi13aW5uZXJzLTIuanBnIiwic2xpZGVzaG93IjoiMmQwMTEzMyJ9" data-elementor-lightbox-title="hackathon winners 2" href='/wp-content/uploads/2022/07/hackathon-winners-2.jpg'><img width="2048" height="1365" src="/wp-content/uploads/2022/07/hackathon-winners-2.jpg" class="attachment-full size-full" alt="" decoding="async" loading="lazy" srcset="/wp-content/uploads/2022/07/hackathon-winners-2.jpg 2048w, /wp-content/uploads/2022/07/hackathon-winners-2-300x200.jpg 300w, /wp-content/uploads/2022/07/hackathon-winners-2-1024x683.jpg 1024w, /wp-content/uploads/2022/07/hackathon-winners-2-768x512.jpg 768w, /wp-content/uploads/2022/07/hackathon-winners-2-1536x1024.jpg 1536w, /wp-content/uploads/2022/07/hackathon-winners-2-600x400.jpg 600w" sizes="(max-width: 2048px) 100vw, 2048px" /></a>
+<a data-elementor-open-lightbox="yes" data-elementor-lightbox-slideshow="2d01133" e-action-hash="#elementor-action%3Aaction%3Dlightbox%26settings%3DeyJpZCI6MTMzMTUsInVybCI6Imh0dHBzOlwvXC9neXVtcmkudGVjaFwvd3AtY29udGVudFwvdXBsb2Fkc1wvMjAyMlwvMDdcL2hhY2thdGhvbi13aW5uZXJzLTEuanBnIiwic2xpZGVzaG93IjoiMmQwMTEzMyJ9" data-elementor-lightbox-title="hackathon winners 1" href='/wp-content/uploads/2022/07/hackathon-winners-1.jpg'><img width="2048" height="1365" src="/wp-content/uploads/2022/07/hackathon-winners-1.jpg" class="attachment-full size-full" alt="" decoding="async" loading="lazy" srcset="/wp-content/uploads/2022/07/hackathon-winners-1.jpg 2048w, /wp-content/uploads/2022/07/hackathon-winners-1-300x200.jpg 300w, /wp-content/uploads/2022/07/hackathon-winners-1-1024x683.jpg 1024w, /wp-content/uploads/2022/07/hackathon-winners-1-768x512.jpg 768w, /wp-content/uploads/2022/07/hackathon-winners-1-1536x1024.jpg 1536w, /wp-content/uploads/2022/07/hackathon-winners-1-600x400.jpg 600w" sizes="(max-width: 2048px) 100vw, 2048px" /></a>
+<a data-elementor-open-lightbox="yes" data-elementor-lightbox-slideshow="2d01133" e-action-hash="#elementor-action%3Aaction%3Dlightbox%26settings%3DeyJpZCI6MTMzMTYsInVybCI6Imh0dHBzOlwvXC9neXVtcmkudGVjaFwvd3AtY29udGVudFwvdXBsb2Fkc1wvMjAyMlwvMDdcL0hhY2thdGhvbi1pbmZvLXNlc3Npb24zLmpwZyIsInNsaWRlc2hvdyI6IjJkMDExMzMifQ%3D%3D" data-elementor-lightbox-title="Hackathon info session3" href='/wp-content/uploads/2022/07/Hackathon-info-session3.jpg'><img width="1280" height="960" src="/wp-content/uploads/2022/07/Hackathon-info-session3.jpg" class="attachment-full size-full" alt="" decoding="async" loading="lazy" srcset="/wp-content/uploads/2022/07/Hackathon-info-session3.jpg 1280w, /wp-content/uploads/2022/07/Hackathon-info-session3-300x225.jpg 300w, /wp-content/uploads/2022/07/Hackathon-info-session3-1024x768.jpg 1024w, /wp-content/uploads/2022/07/Hackathon-info-session3-768x576.jpg 768w, /wp-content/uploads/2022/07/Hackathon-info-session3-600x450.jpg 600w" sizes="(max-width: 1280px) 100vw, 1280px" /></a>
+<a data-elementor-open-lightbox="yes" data-elementor-lightbox-slideshow="2d01133" e-action-hash="#elementor-action%3Aaction%3Dlightbox%26settings%3DeyJpZCI6MTMzMTcsInVybCI6Imh0dHBzOlwvXC9neXVtcmkudGVjaFwvd3AtY29udGVudFwvdXBsb2Fkc1wvMjAyMlwvMDdcL0hhY2thdGhvbi1pbmZvLXNlc3Npb24yLmpwZyIsInNsaWRlc2hvdyI6IjJkMDExMzMifQ%3D%3D" data-elementor-lightbox-title="Hackathon info session2" href='/wp-content/uploads/2022/07/Hackathon-info-session2.jpg'><img width="1280" height="960" src="/wp-content/uploads/2022/07/Hackathon-info-session2.jpg" class="attachment-full size-full" alt="" decoding="async" loading="lazy" srcset="/wp-content/uploads/2022/07/Hackathon-info-session2.jpg 1280w, /wp-content/uploads/2022/07/Hackathon-info-session2-300x225.jpg 300w, /wp-content/uploads/2022/07/Hackathon-info-session2-1024x768.jpg 1024w, /wp-content/uploads/2022/07/Hackathon-info-session2-768x576.jpg 768w, /wp-content/uploads/2022/07/Hackathon-info-session2-600x450.jpg 600w" sizes="(max-width: 1280px) 100vw, 1280px" /></a>
+<a data-elementor-open-lightbox="yes" data-elementor-lightbox-slideshow="2d01133" e-action-hash="#elementor-action%3Aaction%3Dlightbox%26settings%3DeyJpZCI6MTMzMjAsInVybCI6Imh0dHBzOlwvXC9neXVtcmkudGVjaFwvd3AtY29udGVudFwvdXBsb2Fkc1wvMjAyMlwvMDdcL0hhY2thdGhvbi1pbmZvLXNlc3Npb24uanBnIiwic2xpZGVzaG93IjoiMmQwMTEzMyJ9" data-elementor-lightbox-title="Hackathon info session" href='/wp-content/uploads/2022/07/Hackathon-info-session.jpg'><img width="1280" height="960" src="/wp-content/uploads/2022/07/Hackathon-info-session.jpg" class="attachment-full size-full" alt="" decoding="async" loading="lazy" srcset="/wp-content/uploads/2022/07/Hackathon-info-session.jpg 1280w, /wp-content/uploads/2022/07/Hackathon-info-session-300x225.jpg 300w, /wp-content/uploads/2022/07/Hackathon-info-session-1024x768.jpg 1024w, /wp-content/uploads/2022/07/Hackathon-info-session-768x576.jpg 768w, /wp-content/uploads/2022/07/Hackathon-info-session-600x450.jpg 600w" sizes="(max-width: 1280px) 100vw, 1280px" /></a>
+<a data-elementor-open-lightbox="yes" data-elementor-lightbox-slideshow="2d01133" e-action-hash="#elementor-action%3Aaction%3Dlightbox%26settings%3DeyJpZCI6MTMzMTksInVybCI6Imh0dHBzOlwvXC9neXVtcmkudGVjaFwvd3AtY29udGVudFwvdXBsb2Fkc1wvMjAyMlwvMDdcL2hhY2thdGhvbi1hbGwtdGVhbXMuanBnIiwic2xpZGVzaG93IjoiMmQwMTEzMyJ9" data-elementor-lightbox-title="hackathon all teams" href='/wp-content/uploads/2022/07/hackathon-all-teams.jpg'><img width="800" height="533" src="/wp-content/uploads/2022/07/hackathon-all-teams.jpg" class="attachment-full size-full" alt="" decoding="async" loading="lazy" srcset="/wp-content/uploads/2022/07/hackathon-all-teams.jpg 800w, /wp-content/uploads/2022/07/hackathon-all-teams-300x200.jpg 300w, /wp-content/uploads/2022/07/hackathon-all-teams-768x512.jpg 768w, /wp-content/uploads/2022/07/hackathon-all-teams-600x400.jpg 600w" sizes="(max-width: 800px) 100vw, 800px" /></a>
+<a data-elementor-open-lightbox="yes" data-elementor-lightbox-slideshow="2d01133" e-action-hash="#elementor-action%3Aaction%3Dlightbox%26settings%3DeyJpZCI6MTMzMTgsInVybCI6Imh0dHBzOlwvXC9neXVtcmkudGVjaFwvd3AtY29udGVudFwvdXBsb2Fkc1wvMjAyMlwvMDdcL0hhY2thdGhvbi1pbmZvLXNlc3Npb24xLmpwZyIsInNsaWRlc2hvdyI6IjJkMDExMzMifQ%3D%3D" data-elementor-lightbox-title="Hackathon info session1" href='/wp-content/uploads/2022/07/Hackathon-info-session1.jpg'><img width="1280" height="960" src="/wp-content/uploads/2022/07/Hackathon-info-session1.jpg" class="attachment-full size-full" alt="" decoding="async" loading="lazy" srcset="/wp-content/uploads/2022/07/Hackathon-info-session1.jpg 1280w, /wp-content/uploads/2022/07/Hackathon-info-session1-300x225.jpg 300w, /wp-content/uploads/2022/07/Hackathon-info-session1-1024x768.jpg 1024w, /wp-content/uploads/2022/07/Hackathon-info-session1-768x576.jpg 768w, /wp-content/uploads/2022/07/Hackathon-info-session1-600x450.jpg 600w" sizes="(max-width: 1280px) 100vw, 1280px" /></a>
+<a data-elementor-open-lightbox="yes" data-elementor-lightbox-slideshow="2d01133" e-action-hash="#elementor-action%3Aaction%3Dlightbox%26settings%3DeyJpZCI6MTMzMDYsInVybCI6Imh0dHBzOlwvXC9neXVtcmkudGVjaFwvd3AtY29udGVudFwvdXBsb2Fkc1wvMjAyMlwvMDdcL21lbnRvcmluZy1zZXNzaW9uczIucG5nIiwic2xpZGVzaG93IjoiMmQwMTEzMyJ9" data-elementor-lightbox-title="Hackathon info session1" href='/wp-content/uploads/2022/07/mentoring-sessions2.png'><img width="1366" height="768" src="/wp-content/uploads/2022/07/mentoring-sessions2.png" class="attachment-full size-full" alt="" decoding="async" loading="lazy" srcset="/wp-content/uploads/2022/07/mentoring-sessions2.png 1366w, /wp-content/uploads/2022/07/mentoring-sessions2-300x169.png 300w, /wp-content/uploads/2022/07/mentoring-sessions2-1024x576.png 1024w, /wp-content/uploads/2022/07/mentoring-sessions2-768x432.png 768w, /wp-content/uploads/2022/07/mentoring-sessions2-600x337.png 600w" sizes="(max-width: 1366px) 100vw, 1366px" /></a>
+<a data-elementor-open-lightbox="yes" data-elementor-lightbox-slideshow="2d01133" e-action-hash="#elementor-action%3Aaction%3Dlightbox%26settings%3DeyJpZCI6MTMzMDcsInVybCI6Imh0dHBzOlwvXC9neXVtcmkudGVjaFwvd3AtY29udGVudFwvdXBsb2Fkc1wvMjAyMlwvMDdcL21lbnRvcmluZy1zZXNzaW9uczEucG5nIiwic2xpZGVzaG93IjoiMmQwMTEzMyJ9" data-elementor-lightbox-title="Hackathon info session1" href='/wp-content/uploads/2022/07/mentoring-sessions1.png'><img width="1366" height="768" src="/wp-content/uploads/2022/07/mentoring-sessions1.png" class="attachment-full size-full" alt="" decoding="async" loading="lazy" srcset="/wp-content/uploads/2022/07/mentoring-sessions1.png 1366w, /wp-content/uploads/2022/07/mentoring-sessions1-300x169.png 300w, /wp-content/uploads/2022/07/mentoring-sessions1-1024x576.png 1024w, /wp-content/uploads/2022/07/mentoring-sessions1-768x432.png 768w, /wp-content/uploads/2022/07/mentoring-sessions1-600x337.png 600w" sizes="(max-width: 1366px) 100vw, 1366px" /></a>
+<a data-elementor-open-lightbox="yes" data-elementor-lightbox-slideshow="2d01133" e-action-hash="#elementor-action%3Aaction%3Dlightbox%26settings%3DeyJpZCI6MTMzMDgsInVybCI6Imh0dHBzOlwvXC9neXVtcmkudGVjaFwvd3AtY29udGVudFwvdXBsb2Fkc1wvMjAyMlwvMDdcL21lbnRvcmluZy1zZXNzaW9ucy5wbmciLCJzbGlkZXNob3ciOiIyZDAxMTMzIn0%3D" data-elementor-lightbox-title="Hackathon info session1" href='/wp-content/uploads/2022/07/mentoring-sessions.png'><img width="1366" height="768" src="/wp-content/uploads/2022/07/mentoring-sessions.png" class="attachment-full size-full" alt="" decoding="async" loading="lazy" srcset="/wp-content/uploads/2022/07/mentoring-sessions.png 1366w, /wp-content/uploads/2022/07/mentoring-sessions-300x169.png 300w, /wp-content/uploads/2022/07/mentoring-sessions-1024x576.png 1024w, /wp-content/uploads/2022/07/mentoring-sessions-768x432.png 768w, /wp-content/uploads/2022/07/mentoring-sessions-600x337.png 600w" sizes="(max-width: 1366px) 100vw, 1366px" /></a>
+<a data-elementor-open-lightbox="yes" data-elementor-lightbox-slideshow="2d01133" e-action-hash="#elementor-action%3Aaction%3Dlightbox%26settings%3DeyJpZCI6MTMzMDksInVybCI6Imh0dHBzOlwvXC9neXVtcmkudGVjaFwvd3AtY29udGVudFwvdXBsb2Fkc1wvMjAyMlwvMDdcL21lbnRvcmluZy1zZXNzaW9ucy00LnBuZyIsInNsaWRlc2hvdyI6IjJkMDExMzMifQ%3D%3D" data-elementor-lightbox-title="Hackathon info session1" href='/wp-content/uploads/2022/07/mentoring-sessions-4.png'><img width="1366" height="768" src="/wp-content/uploads/2022/07/mentoring-sessions-4.png" class="attachment-full size-full" alt="" decoding="async" loading="lazy" srcset="/wp-content/uploads/2022/07/mentoring-sessions-4.png 1366w, /wp-content/uploads/2022/07/mentoring-sessions-4-300x169.png 300w, /wp-content/uploads/2022/07/mentoring-sessions-4-1024x576.png 1024w, /wp-content/uploads/2022/07/mentoring-sessions-4-768x432.png 768w, /wp-content/uploads/2022/07/mentoring-sessions-4-600x337.png 600w" sizes="(max-width: 1366px) 100vw, 1366px" /></a>
+<a data-elementor-open-lightbox="yes" data-elementor-lightbox-slideshow="2d01133" e-action-hash="#elementor-action%3Aaction%3Dlightbox%26settings%3DeyJpZCI6MTMzMTAsInVybCI6Imh0dHBzOlwvXC9neXVtcmkudGVjaFwvd3AtY29udGVudFwvdXBsb2Fkc1wvMjAyMlwvMDdcL21lbnRvcmluZy1zZXNzaW9ucy0zLnBuZyIsInNsaWRlc2hvdyI6IjJkMDExMzMifQ%3D%3D" data-elementor-lightbox-title="Hackathon info session1" href='/wp-content/uploads/2022/07/mentoring-sessions-3.png'><img width="1366" height="768" src="/wp-content/uploads/2022/07/mentoring-sessions-3.png" class="attachment-full size-full" alt="" decoding="async" loading="lazy" srcset="/wp-content/uploads/2022/07/mentoring-sessions-3.png 1366w, /wp-content/uploads/2022/07/mentoring-sessions-3-300x169.png 300w, /wp-content/uploads/2022/07/mentoring-sessions-3-1024x576.png 1024w, /wp-content/uploads/2022/07/mentoring-sessions-3-768x432.png 768w, /wp-content/uploads/2022/07/mentoring-sessions-3-600x337.png 600w" sizes="(max-width: 1366px) 100vw, 1366px" /></a>
+		</div>
+				</div>
+				</div>
+					</div>
+		</div>
+							</div>
+		</section>
+							</div>
+		]]></content:encoded>
+					
+					<wfw:commentRss>/young-innovators-future-leaders-hackathon/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>“Technological skills to the war-affected people in Chambarak” project at Chambarak, Gegharkunik</title>
+		<link>/chambarak-gegharkunik/</link>
+					<comments>/chambarak-gegharkunik/#respond</comments>
+		
+		<dc:creator><![CDATA[amalya]]></dc:creator>
+		<pubDate>Wed, 01 Jun 2022 10:16:37 +0000</pubDate>
+				<category><![CDATA[Projects]]></category>
+		<guid isPermaLink="false">http://educationwp.thimpress.com/demo-el/?p=3697</guid>
+
+					<description><![CDATA[Previous Next “Technological skills to the war-affected people in Chambarak” project at Chambarak is implemented within the framework of the &#8220;Addressing the Crisis&#8221; grant initiative announced by Eurasia Partnership Foundation, funded by the European Union in cooperation with the GITC &#8230; ]]></description>
+										<content:encoded><![CDATA[		<div data-elementor-type="wp-post" data-elementor-id="3697" class="elementor elementor-3697">
+									<section class="elementor-section elementor-top-section elementor-element elementor-element-f73e972 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="f73e972" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-11a71a3e" data-id="11a71a3e" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-ccab264 elementor-widget__width-inherit elementor-arrows-position-inside elementor-pagination-position-outside elementor-widget elementor-widget-image-carousel" data-id="ccab264" data-element_type="widget" data-settings="{&quot;slides_to_show&quot;:&quot;4&quot;,&quot;image_spacing_custom&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:5,&quot;sizes&quot;:[]},&quot;navigation&quot;:&quot;both&quot;,&quot;autoplay&quot;:&quot;yes&quot;,&quot;pause_on_hover&quot;:&quot;yes&quot;,&quot;pause_on_interaction&quot;:&quot;yes&quot;,&quot;autoplay_speed&quot;:5000,&quot;infinite&quot;:&quot;yes&quot;,&quot;speed&quot;:500}" data-widget_type="image-carousel.default">
+				<div class="elementor-widget-container">
+			<style>/*! elementor - v3.7.7 - 20-09-2022 */
+.elementor-widget-image-carousel .swiper-container{position:static}.elementor-widget-image-carousel .swiper-container .swiper-slide figure{line-height:inherit}.elementor-widget-image-carousel .swiper-slide{text-align:center}.elementor-image-carousel-wrapper:not(.swiper-container-initialized) .swiper-slide{max-width:calc(100% / var(--e-image-carousel-slides-to-show, 3))}</style>		<div class="elementor-image-carousel-wrapper swiper-container" dir="ltr">
+			<div class="elementor-image-carousel swiper-wrapper">
+								<div class="swiper-slide"><figure class="swiper-slide-inner"><img decoding="async" class="swiper-slide-image" src="/wp-content/uploads/2022/06/284269418_3089877171229062_4125305768975557106_n.jpeg" alt="284269418_3089877171229062_4125305768975557106_n" /></figure></div><div class="swiper-slide"><figure class="swiper-slide-inner"><img decoding="async" class="swiper-slide-image" src="/wp-content/uploads/2022/06/286044114_3089877251229054_2760174978429067901_n.jpeg" alt="286044114_3089877251229054_2760174978429067901_n" /></figure></div><div class="swiper-slide"><figure class="swiper-slide-inner"><img decoding="async" class="swiper-slide-image" src="/wp-content/uploads/2022/06/284600649_3089877444562368_7529952361967371385_n.jpeg" alt="284600649_3089877444562368_7529952361967371385_n" /></figure></div><div class="swiper-slide"><figure class="swiper-slide-inner"><img decoding="async" class="swiper-slide-image" src="/wp-content/uploads/2022/06/284690093_3089877354562377_4703780082196084953_n.jpeg" alt="284690093_3089877354562377_4703780082196084953_n" /></figure></div><div class="swiper-slide"><figure class="swiper-slide-inner"><img decoding="async" class="swiper-slide-image" src="/wp-content/uploads/2022/06/284691368_3089877531229026_8337112208575502421_n.jpeg" alt="284691368_3089877531229026_8337112208575502421_n" /></figure></div><div class="swiper-slide"><figure class="swiper-slide-inner"><img decoding="async" class="swiper-slide-image" src="/wp-content/uploads/2022/06/284958216_3089877594562353_6433201980564613444_n.jpeg" alt="284958216_3089877594562353_6433201980564613444_n" /></figure></div><div class="swiper-slide"><figure class="swiper-slide-inner"><img decoding="async" class="swiper-slide-image" src="/wp-content/uploads/2022/06/283930151_3089877394562373_6728109913124789722_n.jpeg" alt="283930151_3089877394562373_6728109913124789722_n" /></figure></div>			</div>
+												<div class="swiper-pagination"></div>
+													<div class="elementor-swiper-button elementor-swiper-button-prev">
+						<i aria-hidden="true" class="eicon-chevron-left"></i>						<span class="elementor-screen-only">Previous</span>
+					</div>
+					<div class="elementor-swiper-button elementor-swiper-button-next">
+						<i aria-hidden="true" class="eicon-chevron-right"></i>						<span class="elementor-screen-only">Next</span>
+					</div>
+									</div>
+				</div>
+				</div>
+				<div class="elementor-element elementor-element-7fc6da78 elementor-widget elementor-widget-text-editor" data-id="7fc6da78" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+							“Technological skills to the war-affected people in Chambarak” project at Chambarak is implemented within the framework of the &#8220;Addressing the Crisis&#8221; grant initiative announced by Eurasia Partnership Foundation, funded by the European Union in cooperation with the GITC and the &#8220;Soldier&#8217;s Mother&#8221; NGO․
+
+As part of the project, Gyumri Information Technologies Center (GITC) in cooperation with Zinvori Mayr NGO will provide technology and entrepreneurship training in Chambarak community of Gegharkunik region for veterans of the 44-day Artsakh war and family members of the war victims.
+
+The main goal of the project is to reduce unemployment and improve the quality of life within the war-affected groups in Chambarak community by providing technological and business skills. Within the framework of the project, 30 participants from Chambarak receive knowledge in the fields of Web programming and business skills.						</div>
+				</div>
+					</div>
+		</div>
+							</div>
+		</section>
+							</div>
+		]]></content:encoded>
+					
+					<wfw:commentRss>/chambarak-gegharkunik/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Improving the social conditions of the victims of the Artsakh war in Tavush region through capacity building</title>
+		<link>/improving-the-social-conditions-of-the-victims-of-the-artsakh-war-in-tavush-region-through-capacity-building/</link>
+					<comments>/improving-the-social-conditions-of-the-victims-of-the-artsakh-war-in-tavush-region-through-capacity-building/#respond</comments>
+		
+		<dc:creator><![CDATA[amalya]]></dc:creator>
+		<pubDate>Sat, 15 May 2021 14:58:22 +0000</pubDate>
+				<category><![CDATA[Projects]]></category>
+		<guid isPermaLink="false">/?p=13235</guid>
+
+					<description><![CDATA[The aim of the &#8220;Improve the social conditions of the victims of the Artsakh war in Tavush region through capacity building&#8221; program is to support 100 individuals living in Tavush region, who are in a difficult social situation as a &#8230; ]]></description>
+										<content:encoded><![CDATA[		<div data-elementor-type="wp-post" data-elementor-id="13235" class="elementor elementor-13235">
+									<section class="elementor-section elementor-top-section elementor-element elementor-element-5cd084ba elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="5cd084ba" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-5e3ce485" data-id="5e3ce485" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-11b0239d elementor-widget elementor-widget-text-editor" data-id="11b0239d" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+							<p><span style="font-weight: 400;">The aim of the &#8220;Improve the social conditions of the victims of the Artsakh war in Tavush region through capacity building&#8221; program is to support 100 individuals living in Tavush region, who are in a difficult social situation as a result of the Artsakh events. Within the framework of this program, web programming courses are organised for the representatives of the target group, as well as they receive psychological and Financial Management / Accounting consultations. Our initiative has an impact on overcoming the psychological complex of the inferiority of the target group of the project, as the participants receive psychological support so that their reintegration into public life is complete. All participants of the program will have the opportunity to acquire a profession that is in demand in the modern labour market</span></p><p><span style="font-weight: 400;">The courses are held in:</span></p><ul><li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Ijevan</span></li><li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Berd</span></li><li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Noyemberyan.</span></li></ul><p><span style="font-weight: 400;">Date: May 2021 – in progress  </span></p>						</div>
+				</div>
+				<div class="elementor-element elementor-element-be76886 elementor-arrows-position-inside elementor-pagination-position-outside elementor-widget elementor-widget-image-carousel" data-id="be76886" data-element_type="widget" data-settings="{&quot;slides_to_show&quot;:&quot;5&quot;,&quot;image_spacing_custom&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:5,&quot;sizes&quot;:[]},&quot;navigation&quot;:&quot;both&quot;,&quot;autoplay&quot;:&quot;yes&quot;,&quot;pause_on_hover&quot;:&quot;yes&quot;,&quot;pause_on_interaction&quot;:&quot;yes&quot;,&quot;autoplay_speed&quot;:5000,&quot;infinite&quot;:&quot;yes&quot;,&quot;speed&quot;:500}" data-widget_type="image-carousel.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-image-carousel-wrapper swiper-container" dir="ltr">
+			<div class="elementor-image-carousel swiper-wrapper">
+								<div class="swiper-slide"><figure class="swiper-slide-inner"><img decoding="async" class="swiper-slide-image" src="/wp-content/uploads/2021/05/183207800_2809161729300609_3414010331690392341_n-150x150.jpg" alt="" /></figure></div><div class="swiper-slide"><figure class="swiper-slide-inner"><img decoding="async" class="swiper-slide-image" src="/wp-content/uploads/2021/05/184200972_2811852612364854_2482668774013070460_n-150x150.jpg" alt="184200972_2811852612364854_2482668774013070460_n" /></figure></div><div class="swiper-slide"><figure class="swiper-slide-inner"><img decoding="async" class="swiper-slide-image" src="/wp-content/uploads/2021/05/183045331_2809161649300617_1071527001256203224_n-150x150.jpg" alt="" /></figure></div><div class="swiper-slide"><figure class="swiper-slide-inner"><img decoding="async" class="swiper-slide-image" src="/wp-content/uploads/2021/05/184860425_2811852559031526_3504289322871042867_n-150x150.jpg" alt="184860425_2811852559031526_3504289322871042867_n" /></figure></div><div class="swiper-slide"><figure class="swiper-slide-inner"><img decoding="async" class="swiper-slide-image" src="/wp-content/uploads/2021/05/183125955_2809161549300627_5605218377923141606_n-150x150.jpg" alt="183125955_2809161549300627_5605218377923141606_n" /></figure></div><div class="swiper-slide"><figure class="swiper-slide-inner"><img decoding="async" class="swiper-slide-image" src="/wp-content/uploads/2021/05/182991513_2809161592633956_975295860112526115_n-150x150.jpg" alt="" /></figure></div><div class="swiper-slide"><figure class="swiper-slide-inner"><img decoding="async" class="swiper-slide-image" src="/wp-content/uploads/2021/05/183074926_2809161485967300_7787466548545111419_n-150x150.jpg" alt="" /></figure></div><div class="swiper-slide"><figure class="swiper-slide-inner"><img decoding="async" class="swiper-slide-image" src="/wp-content/uploads/2021/05/182499007_2809161632633952_6816589085292215293_n-150x150.jpg" alt="" /></figure></div><div class="swiper-slide"><figure class="swiper-slide-inner"><img decoding="async" class="swiper-slide-image" src="/wp-content/uploads/2021/05/183164794_2809161492633966_7467355078228537583_n-150x150.jpg" alt="" /></figure></div><div class="swiper-slide"><figure class="swiper-slide-inner"><img decoding="async" class="swiper-slide-image" src="/wp-content/uploads/2021/05/182542511_2809161669300615_5558096825498233750_n-150x150.jpg" alt="182542511_2809161669300615_5558096825498233750_n" /></figure></div><div class="swiper-slide"><figure class="swiper-slide-inner"><img decoding="async" class="swiper-slide-image" src="/wp-content/uploads/2021/05/182486385_2809161572633958_393547780268425146_n-150x150.jpg" alt="" /></figure></div>			</div>
+												<div class="swiper-pagination"></div>
+													<div class="elementor-swiper-button elementor-swiper-button-prev">
+						<i aria-hidden="true" class="eicon-chevron-left"></i>						<span class="elementor-screen-only">Previous</span>
+					</div>
+					<div class="elementor-swiper-button elementor-swiper-button-next">
+						<i aria-hidden="true" class="eicon-chevron-right"></i>						<span class="elementor-screen-only">Next</span>
+					</div>
+									</div>
+				</div>
+				</div>
+					</div>
+		</div>
+							</div>
+		</section>
+							</div>
+		]]></content:encoded>
+					
+					<wfw:commentRss>/improving-the-social-conditions-of-the-victims-of-the-artsakh-war-in-tavush-region-through-capacity-building/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>&#8220;Deep Engineering Specialization in High School&#8221; program in Parakar</title>
+		<link>/deep-engineering-specialization-in-high-school/</link>
+		
+		<dc:creator><![CDATA[amalya]]></dc:creator>
+		<pubDate>Tue, 20 Apr 2021 10:01:35 +0000</pubDate>
+				<category><![CDATA[Projects]]></category>
+		<guid isPermaLink="false">http://educationwp.thimpress.com/demo-el/?p=3698</guid>
+
+					<description><![CDATA[Previous Next &#8220;Deep Engineering Specialization&#8221; free educational program implemented by the Gyumri Information Technologies centre with the support of Lebanese Armenian businessman Raffi Der Martirosyan, the Armenian Educational Foundation and the Fund for Armenian Relief. The 24-month program provides high &#8230; ]]></description>
+										<content:encoded><![CDATA[		<div data-elementor-type="wp-post" data-elementor-id="3698" class="elementor elementor-3698">
+									<section class="elementor-section elementor-top-section elementor-element elementor-element-465bf475 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="465bf475" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-3db7c50f" data-id="3db7c50f" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-27ad59e elementor-arrows-position-inside elementor-pagination-position-outside elementor-widget elementor-widget-image-carousel" data-id="27ad59e" data-element_type="widget" data-settings="{&quot;image_spacing_custom&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:5,&quot;sizes&quot;:[]},&quot;navigation&quot;:&quot;both&quot;,&quot;autoplay&quot;:&quot;yes&quot;,&quot;pause_on_hover&quot;:&quot;yes&quot;,&quot;pause_on_interaction&quot;:&quot;yes&quot;,&quot;autoplay_speed&quot;:5000,&quot;infinite&quot;:&quot;yes&quot;,&quot;speed&quot;:500}" data-widget_type="image-carousel.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-image-carousel-wrapper swiper-container" dir="ltr">
+			<div class="elementor-image-carousel swiper-wrapper swiper-image-stretch">
+								<div class="swiper-slide"><figure class="swiper-slide-inner"><img decoding="async" class="swiper-slide-image" src="/wp-content/uploads/2021/04/273816666_3007265989490181_3547634013740827317_n.jpeg" alt="273816666_3007265989490181_3547634013740827317_n" /></figure></div><div class="swiper-slide"><figure class="swiper-slide-inner"><img decoding="async" class="swiper-slide-image" src="/wp-content/uploads/2021/04/273368015_3007265962823517_7488692321677798232_n.jpeg" alt="273368015_3007265962823517_7488692321677798232_n" /></figure></div>			</div>
+												<div class="swiper-pagination"></div>
+													<div class="elementor-swiper-button elementor-swiper-button-prev">
+						<i aria-hidden="true" class="eicon-chevron-left"></i>						<span class="elementor-screen-only">Previous</span>
+					</div>
+					<div class="elementor-swiper-button elementor-swiper-button-next">
+						<i aria-hidden="true" class="eicon-chevron-right"></i>						<span class="elementor-screen-only">Next</span>
+					</div>
+									</div>
+				</div>
+				</div>
+				<div class="elementor-element elementor-element-7820c6ae elementor-widget elementor-widget-text-editor" data-id="7820c6ae" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+							&#8220;Deep Engineering Specialization&#8221; free educational program implemented by the Gyumri Information Technologies centre with the support of Lebanese Armenian businessman Raffi Der Martirosyan, the Armenian Educational Foundation and the Fund for Armenian Relief. The 24-month program provides high school students with relevant and competitive engineering skills to open more career opportunities for them․
+
+The program was first time launched in 2021 in the National Polytechnic University of Armenia Gyumri branch and now there are 23 graduates in Gyumri, who has already manufactured buggy car. Since January Engineering Specialization in High School&#8221; program has been implemented in the Parakar community with 31 students.
+
+The objectives of Engineering education are Provide high school students with relevant and competitive engineering skills to open more career opportunities for them. Combine theoretical teaching with practical implementation in specially equipped classrooms. Create a pre-incubation program for the students to turn students&#8217; ideas into prototypes with the help of mentors from the industry.
+
+Involve specialists and teachers from the industry: engineering and high-tech companies. Motivate high school students to build their future careers in Armenia and especially regions of Armenia. Building a career means the encouragement and belief to continue higher education in Armenian Universities; to be part-time employed by the private sector and serve to the development of the economy of Armenia.
+
+Engineering education has 4 specializations:
+
+Software Engineering (python; Machine Learning) Mechanical Engineering (3d modelling; operation on precision machines)
+
+Electrical Engineering (design and implementation of electrical control systems)
+
+Soft Skillset development (product development; project management; team building)						</div>
+				</div>
+					</div>
+		</div>
+							</div>
+		</section>
+							</div>
+		]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>&#8220;Engineering Education in High School&#8221; free educational program</title>
+		<link>/engineering-education-in-high-school-free-educational-program/</link>
+					<comments>/engineering-education-in-high-school-free-educational-program/#respond</comments>
+		
+		<dc:creator><![CDATA[amalya]]></dc:creator>
+		<pubDate>Mon, 15 Feb 2021 15:08:10 +0000</pubDate>
+				<category><![CDATA[Projects]]></category>
+		<guid isPermaLink="false">/?p=13253</guid>
+
+					<description><![CDATA[The Armenian Educational Foundation implements the &#8220;Engineering Education in High School&#8221; free educational program in Gyumri high schools, cooperating with GITC. The uniqueness of the &#8220;Engineering Education in High School&#8221; free educational program is that the education is provided with &#8230; ]]></description>
+										<content:encoded><![CDATA[		<div data-elementor-type="wp-post" data-elementor-id="13253" class="elementor elementor-13253">
+									<section class="elementor-section elementor-top-section elementor-element elementor-element-5cd084ba elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="5cd084ba" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-5e3ce485" data-id="5e3ce485" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-11b0239d elementor-widget elementor-widget-text-editor" data-id="11b0239d" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+							<p><span style="font-weight: 400;">The Armenian Educational Foundation implements the &#8220;Engineering Education in High School&#8221; free educational program in Gyumri high schools, cooperating with GITC.</span></p><p><span style="font-weight: 400;">The uniqueness of the &#8220;Engineering Education in High School&#8221; free educational program is that the education is provided with practical and modern technologies.</span></p><p><span style="font-weight: 400;">The Armenian Educational Foundation is establishing the Engineering Laboratory in Gyumri branch of NPUA, equipped with special engineering mechanisms. Students will have the chance to apply their knowledge practically, which will give them a professional advantage.</span></p><p><span style="font-weight: 400;">The program gives students knowledge and skills in the following fields. </span></p><ul><li><span style="font-weight: 400;"> Software engineering </span></li><li><span style="font-weight: 400;"> Mechanical engineering </span></li><li><span style="font-weight: 400;"> Electrical engineering </span></li><li><span style="font-weight: 400;"> Soft Skills</span></li></ul><p><span style="font-weight: 400;">AEF and GITC are focused on education and social development, that’s why we launched the &#8220;Engineering Education in High School&#8221; free educational program.</span></p><p> </p><p><span style="font-weight: 400;">Date: Feb 2021 – in progress</span></p>						</div>
+				</div>
+				<div class="elementor-element elementor-element-be76886 elementor-arrows-position-inside elementor-pagination-position-outside elementor-widget elementor-widget-image-carousel" data-id="be76886" data-element_type="widget" data-settings="{&quot;slides_to_show&quot;:&quot;5&quot;,&quot;image_spacing_custom&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:5,&quot;sizes&quot;:[]},&quot;navigation&quot;:&quot;both&quot;,&quot;autoplay&quot;:&quot;yes&quot;,&quot;pause_on_hover&quot;:&quot;yes&quot;,&quot;pause_on_interaction&quot;:&quot;yes&quot;,&quot;autoplay_speed&quot;:5000,&quot;infinite&quot;:&quot;yes&quot;,&quot;speed&quot;:500}" data-widget_type="image-carousel.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-image-carousel-wrapper swiper-container" dir="ltr">
+			<div class="elementor-image-carousel swiper-wrapper">
+								<div class="swiper-slide"><figure class="swiper-slide-inner"><img decoding="async" class="swiper-slide-image" src="/wp-content/uploads/2022/11/149202544_2752060218344094_1551931787196551855_n-150x150.jpg" alt="" /></figure></div><div class="swiper-slide"><figure class="swiper-slide-inner"><img decoding="async" class="swiper-slide-image" src="/wp-content/uploads/2022/11/157216042_2765807793636003_5323374876529675995_n-150x150.jpg" alt="" /></figure></div><div class="swiper-slide"><figure class="swiper-slide-inner"><img decoding="async" class="swiper-slide-image" src="/wp-content/uploads/2022/11/149296000_2752060291677420_5531889020107818737_n-150x150.jpg" alt="" /></figure></div><div class="swiper-slide"><figure class="swiper-slide-inner"><img decoding="async" class="swiper-slide-image" src="/wp-content/uploads/2022/11/157239600_2765807633636019_5279702980529018010_n-150x150.jpg" alt="" /></figure></div><div class="swiper-slide"><figure class="swiper-slide-inner"><img decoding="async" class="swiper-slide-image" src="/wp-content/uploads/2022/11/157199904_2765807626969353_4894284149808354445_n-150x150.jpg" alt="" /></figure></div><div class="swiper-slide"><figure class="swiper-slide-inner"><img decoding="async" class="swiper-slide-image" src="/wp-content/uploads/2022/11/157087394_2765310383685744_2591727968257439088_n-150x150.jpg" alt="" /></figure></div><div class="swiper-slide"><figure class="swiper-slide-inner"><img decoding="async" class="swiper-slide-image" src="/wp-content/uploads/2022/11/157074498_2765310393685743_8584477345025844457_n-150x150.jpg" alt="" /></figure></div><div class="swiper-slide"><figure class="swiper-slide-inner"><img decoding="async" class="swiper-slide-image" src="/wp-content/uploads/2022/11/166200865_2783038325246283_447813878360885668_n-150x150.jpg" alt="" /></figure></div><div class="swiper-slide"><figure class="swiper-slide-inner"><img decoding="async" class="swiper-slide-image" src="/wp-content/uploads/2022/11/166227453_2783038278579621_1266077779427549826_n-150x150.jpg" alt="" /></figure></div><div class="swiper-slide"><figure class="swiper-slide-inner"><img decoding="async" class="swiper-slide-image" src="/wp-content/uploads/2022/11/196003272_2828276220722493_261371046907719070_n-150x150.jpg" alt="" /></figure></div><div class="swiper-slide"><figure class="swiper-slide-inner"><img decoding="async" class="swiper-slide-image" src="/wp-content/uploads/2022/11/194409812_2828276180722497_7508296923716236491_n-150x150.jpg" alt="" /></figure></div><div class="swiper-slide"><figure class="swiper-slide-inner"><img decoding="async" class="swiper-slide-image" src="/wp-content/uploads/2022/11/195874626_2828276174055831_2209108484076354300_n-150x150.jpg" alt="" /></figure></div>			</div>
+												<div class="swiper-pagination"></div>
+													<div class="elementor-swiper-button elementor-swiper-button-prev">
+						<i aria-hidden="true" class="eicon-chevron-left"></i>						<span class="elementor-screen-only">Previous</span>
+					</div>
+					<div class="elementor-swiper-button elementor-swiper-button-next">
+						<i aria-hidden="true" class="eicon-chevron-right"></i>						<span class="elementor-screen-only">Next</span>
+					</div>
+									</div>
+				</div>
+				</div>
+					</div>
+		</div>
+							</div>
+		</section>
+							</div>
+		]]></content:encoded>
+					
+					<wfw:commentRss>/engineering-education-in-high-school-free-educational-program/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Web programming training for discharged young men for military service</title>
+		<link>/web-programming-training-for-discharged-young-men-for-military-service/</link>
+					<comments>/web-programming-training-for-discharged-young-men-for-military-service/#respond</comments>
+		
+		<dc:creator><![CDATA[amalya]]></dc:creator>
+		<pubDate>Fri, 15 Mar 2019 14:49:36 +0000</pubDate>
+				<category><![CDATA[Projects]]></category>
+		<guid isPermaLink="false">/?p=13215</guid>
+
+					<description><![CDATA[ Gyumri Information Technology Center educational foundation, funded by the Armenian Fund for Relief, conducted 6-month free training courses for discharged young men for military service or the youth of the military discharged, in conjunction with the Armenian Soldier&#8217;s Mother Charitable &#8230; ]]></description>
+										<content:encoded><![CDATA[		<div data-elementor-type="wp-post" data-elementor-id="13215" class="elementor elementor-13215">
+									<section class="elementor-section elementor-top-section elementor-element elementor-element-5cd084ba elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="5cd084ba" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-5e3ce485" data-id="5e3ce485" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-11b0239d elementor-widget elementor-widget-text-editor" data-id="11b0239d" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+							<p><span style="font-weight: 400;"> Gyumri Information Technology Center educational foundation, funded by the Armenian Fund for Relief, conducted 6-month free training courses for discharged young men for military service or the youth of the military discharged, in conjunction with the Armenian Soldier&#8217;s Mother Charitable NGO. The program participants gained knowledge in HTML/CSS, JavaScript, PHP, Data Base, Linux, Adobe Photoshop, Discrete Mathematics, Algorithms Theory and English. At the end of the course participants designed websites, separate pages and apps. The program was implemented for one purpose: to enable servicemen or disadvantaged youth to enter the IT sector and have job opportunities.</span></p><p><span style="font-weight: 400;">Date: March 2019 – Oct 2019</span></p>						</div>
+				</div>
+				<div class="elementor-element elementor-element-be76886 elementor-arrows-position-inside elementor-pagination-position-outside elementor-widget elementor-widget-image-carousel" data-id="be76886" data-element_type="widget" data-settings="{&quot;slides_to_show&quot;:&quot;5&quot;,&quot;image_spacing_custom&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:5,&quot;sizes&quot;:[]},&quot;navigation&quot;:&quot;both&quot;,&quot;autoplay&quot;:&quot;yes&quot;,&quot;pause_on_hover&quot;:&quot;yes&quot;,&quot;pause_on_interaction&quot;:&quot;yes&quot;,&quot;autoplay_speed&quot;:5000,&quot;infinite&quot;:&quot;yes&quot;,&quot;speed&quot;:500}" data-widget_type="image-carousel.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-image-carousel-wrapper swiper-container" dir="ltr">
+			<div class="elementor-image-carousel swiper-wrapper">
+								<div class="swiper-slide"><figure class="swiper-slide-inner"><img decoding="async" class="swiper-slide-image" src="/wp-content/uploads/2019/03/71540279_2346013175615469_1918064130183397376_n-150x150.jpg" alt="" /></figure></div><div class="swiper-slide"><figure class="swiper-slide-inner"><img decoding="async" class="swiper-slide-image" src="/wp-content/uploads/2019/03/71911932_2346013378948782_3583197112319344640_n-150x150.jpg" alt="" /></figure></div><div class="swiper-slide"><figure class="swiper-slide-inner"><img decoding="async" class="swiper-slide-image" src="/wp-content/uploads/2019/03/71278882_2346013162282137_6111964033890385920_n-150x150.jpg" alt="" /></figure></div><div class="swiper-slide"><figure class="swiper-slide-inner"><img decoding="async" class="swiper-slide-image" src="/wp-content/uploads/2019/03/71211013_2346013542282099_4875389958065487872_n-150x150.jpg" alt="" /></figure></div><div class="swiper-slide"><figure class="swiper-slide-inner"><img decoding="async" class="swiper-slide-image" src="/wp-content/uploads/2019/03/71731738_2346013008948819_5511580966583271424_n-150x150.jpg" alt="" /></figure></div><div class="swiper-slide"><figure class="swiper-slide-inner"><img decoding="async" class="swiper-slide-image" src="/wp-content/uploads/2019/03/57555429_2236551986561589_684754551626006528_n-150x150.jpg" alt="" /></figure></div><div class="swiper-slide"><figure class="swiper-slide-inner"><img decoding="async" class="swiper-slide-image" src="/wp-content/uploads/2019/03/71199018_2346013082282145_525032929865236480_n-150x150.jpg" alt="" /></figure></div><div class="swiper-slide"><figure class="swiper-slide-inner"><img decoding="async" class="swiper-slide-image" src="/wp-content/uploads/2019/03/71208239_2346013422282111_9070283704319868928_n-150x150.jpg" alt="" /></figure></div><div class="swiper-slide"><figure class="swiper-slide-inner"><img decoding="async" class="swiper-slide-image" src="/wp-content/uploads/2019/03/71185054_2346013492282104_1184711907639033856_n-150x150.jpg" alt="" /></figure></div><div class="swiper-slide"><figure class="swiper-slide-inner"><img decoding="async" class="swiper-slide-image" src="/wp-content/uploads/2019/03/71182176_2346013428948777_7535644619049009152_n-150x150.jpg" alt="" /></figure></div><div class="swiper-slide"><figure class="swiper-slide-inner"><img decoding="async" class="swiper-slide-image" src="/wp-content/uploads/2019/03/71209083_2346013675615419_4848254019681910784_n-150x150.jpg" alt="" /></figure></div>			</div>
+												<div class="swiper-pagination"></div>
+													<div class="elementor-swiper-button elementor-swiper-button-prev">
+						<i aria-hidden="true" class="eicon-chevron-left"></i>						<span class="elementor-screen-only">Previous</span>
+					</div>
+					<div class="elementor-swiper-button elementor-swiper-button-next">
+						<i aria-hidden="true" class="eicon-chevron-right"></i>						<span class="elementor-screen-only">Next</span>
+					</div>
+									</div>
+				</div>
+				</div>
+					</div>
+		</div>
+							</div>
+		</section>
+							</div>
+		]]></content:encoded>
+					
+					<wfw:commentRss>/web-programming-training-for-discharged-young-men-for-military-service/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Boosting Technological Developments in Shirak Region</title>
+		<link>/boosting-technological-developments-in-shirak-region/</link>
+					<comments>/boosting-technological-developments-in-shirak-region/#respond</comments>
+		
+		<dc:creator><![CDATA[amalya]]></dc:creator>
+		<pubDate>Sat, 15 Jul 2017 14:28:29 +0000</pubDate>
+				<category><![CDATA[Projects]]></category>
+		<guid isPermaLink="false">/?p=13183</guid>
+
+					<description><![CDATA[Through funding of the European Union and RA Ministry of Territorial Administration and Development, Microsoft Innovation Center Armenia and Gyumri Information Technologies Center implemented a new project, aiming to support economic development of Shirak marz through skill enrichment of unemployed young population and business development &#8230; ]]></description>
+										<content:encoded><![CDATA[		<div data-elementor-type="wp-post" data-elementor-id="13183" class="elementor elementor-13183">
+									<section class="elementor-section elementor-top-section elementor-element elementor-element-5cd084ba elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="5cd084ba" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-5e3ce485" data-id="5e3ce485" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-11b0239d elementor-widget elementor-widget-text-editor" data-id="11b0239d" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+							<p><span style="font-weight: 400;">Through funding of the </span><i><span style="font-weight: 400;">European Union</span></i><span style="font-weight: 400;"> and </span><i><span style="font-weight: 400;">RA Ministry of Territorial Administration and Development</span></i><span style="font-weight: 400;">, </span><a href="http://micarmenia.am/"><span style="font-weight: 400;">Microsoft Innovation Center Armenia</span></a><span style="font-weight: 400;"> and Gyumri Information Technologies Center implemented a new project, aiming to support economic development of Shirak marz through skill enrichment of unemployed young population and business development of IT community. The project&#8217;s goal was to train the unemployed youth and enlarge the operation of existing IT companies in the region through skill enhancement of the companies in the form of business development and financial assistance.</span></p><p><span style="font-weight: 400;">Date: July 2017 – Dec 2018</span></p>						</div>
+				</div>
+				<div class="elementor-element elementor-element-f1d1fb7 gallery-spacing-custom elementor-widget elementor-widget-image-gallery" data-id="f1d1fb7" data-element_type="widget" data-widget_type="image-gallery.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-image-gallery">
+			
+<a data-elementor-open-lightbox="yes" data-elementor-lightbox-slideshow="f1d1fb7" e-action-hash="#elementor-action%3Aaction%3Dlightbox%26settings%3DeyJpZCI6MTMxOTQsInVybCI6Imh0dHBzOlwvXC9neXVtcmkudGVjaFwvd3AtY29udGVudFwvdXBsb2Fkc1wvMjAxN1wvMDdcLzc1MzYyMzQ0XzIzOTM3NDIxNzc1MDkyMzVfOTA0NTgxNTM5MTU5ODY3MzkyMF9uLmpwZyIsInNsaWRlc2hvdyI6ImYxZDFmYjcifQ%3D%3D" href='/wp-content/uploads/2017/07/75362344_2393742177509235_9045815391598673920_n.jpg'><img width="1875" height="1250" src="/wp-content/uploads/2017/07/75362344_2393742177509235_9045815391598673920_n.jpg" class="attachment-full size-full" alt="" decoding="async" loading="lazy" srcset="/wp-content/uploads/2017/07/75362344_2393742177509235_9045815391598673920_n.jpg 1875w, /wp-content/uploads/2017/07/75362344_2393742177509235_9045815391598673920_n-300x200.jpg 300w, /wp-content/uploads/2017/07/75362344_2393742177509235_9045815391598673920_n-1024x683.jpg 1024w, /wp-content/uploads/2017/07/75362344_2393742177509235_9045815391598673920_n-768x512.jpg 768w, /wp-content/uploads/2017/07/75362344_2393742177509235_9045815391598673920_n-1536x1024.jpg 1536w, /wp-content/uploads/2017/07/75362344_2393742177509235_9045815391598673920_n-600x400.jpg 600w" sizes="(max-width: 1875px) 100vw, 1875px" /></a>
+<a data-elementor-open-lightbox="yes" data-elementor-lightbox-slideshow="f1d1fb7" e-action-hash="#elementor-action%3Aaction%3Dlightbox%26settings%3DeyJpZCI6MTMxODgsInVybCI6Imh0dHBzOlwvXC9neXVtcmkudGVjaFwvd3AtY29udGVudFwvdXBsb2Fkc1wvMjAxN1wvMDdcLzc4MTU2NDk4XzIzOTM3NDI3Mzc1MDkxNzlfNzA4MjQyMTg0NTg2MDgxMDc1Ml9uLmpwZyIsInNsaWRlc2hvdyI6ImYxZDFmYjcifQ%3D%3D" href='/wp-content/uploads/2017/07/78156498_2393742737509179_7082421845860810752_n.jpg'><img width="1875" height="1250" src="/wp-content/uploads/2017/07/78156498_2393742737509179_7082421845860810752_n.jpg" class="attachment-full size-full" alt="" decoding="async" loading="lazy" srcset="/wp-content/uploads/2017/07/78156498_2393742737509179_7082421845860810752_n.jpg 1875w, /wp-content/uploads/2017/07/78156498_2393742737509179_7082421845860810752_n-300x200.jpg 300w, /wp-content/uploads/2017/07/78156498_2393742737509179_7082421845860810752_n-1024x683.jpg 1024w, /wp-content/uploads/2017/07/78156498_2393742737509179_7082421845860810752_n-768x512.jpg 768w, /wp-content/uploads/2017/07/78156498_2393742737509179_7082421845860810752_n-1536x1024.jpg 1536w, /wp-content/uploads/2017/07/78156498_2393742737509179_7082421845860810752_n-600x400.jpg 600w" sizes="(max-width: 1875px) 100vw, 1875px" /></a>
+<a data-elementor-open-lightbox="yes" data-elementor-lightbox-slideshow="f1d1fb7" e-action-hash="#elementor-action%3Aaction%3Dlightbox%26settings%3DeyJpZCI6MTMxOTMsInVybCI6Imh0dHBzOlwvXC9neXVtcmkudGVjaFwvd3AtY29udGVudFwvdXBsb2Fkc1wvMjAxN1wvMDdcLzc2NzYwMDkzXzIzOTM3NDMwNjQxNzU4MTNfNzA1NTMzNDc4ODUwMDAyOTQ0X24uanBnIiwic2xpZGVzaG93IjoiZjFkMWZiNyJ9" href='/wp-content/uploads/2017/07/76760093_2393743064175813_705533478850002944_n.jpg'><img width="1920" height="1280" src="/wp-content/uploads/2017/07/76760093_2393743064175813_705533478850002944_n.jpg" class="attachment-full size-full" alt="" decoding="async" loading="lazy" srcset="/wp-content/uploads/2017/07/76760093_2393743064175813_705533478850002944_n.jpg 1920w, /wp-content/uploads/2017/07/76760093_2393743064175813_705533478850002944_n-300x200.jpg 300w, /wp-content/uploads/2017/07/76760093_2393743064175813_705533478850002944_n-1024x683.jpg 1024w, /wp-content/uploads/2017/07/76760093_2393743064175813_705533478850002944_n-768x512.jpg 768w, /wp-content/uploads/2017/07/76760093_2393743064175813_705533478850002944_n-1536x1024.jpg 1536w, /wp-content/uploads/2017/07/76760093_2393743064175813_705533478850002944_n-600x400.jpg 600w" sizes="(max-width: 1920px) 100vw, 1920px" /></a>
+<a data-elementor-open-lightbox="yes" data-elementor-lightbox-slideshow="f1d1fb7" e-action-hash="#elementor-action%3Aaction%3Dlightbox%26settings%3DeyJpZCI6MTMxOTIsInVybCI6Imh0dHBzOlwvXC9neXVtcmkudGVjaFwvd3AtY29udGVudFwvdXBsb2Fkc1wvMjAxN1wvMDdcLzc2OTA1MDYwXzIzOTM3NDIwODQxNzU5MTFfMzEwNzk0MDY1NDM5MTQ5MjYwOF9uLmpwZyIsInNsaWRlc2hvdyI6ImYxZDFmYjcifQ%3D%3D" href='/wp-content/uploads/2017/07/76905060_2393742084175911_3107940654391492608_n.jpg'><img width="1875" height="1250" src="/wp-content/uploads/2017/07/76905060_2393742084175911_3107940654391492608_n.jpg" class="attachment-full size-full" alt="" decoding="async" loading="lazy" srcset="/wp-content/uploads/2017/07/76905060_2393742084175911_3107940654391492608_n.jpg 1875w, /wp-content/uploads/2017/07/76905060_2393742084175911_3107940654391492608_n-300x200.jpg 300w, /wp-content/uploads/2017/07/76905060_2393742084175911_3107940654391492608_n-1024x683.jpg 1024w, /wp-content/uploads/2017/07/76905060_2393742084175911_3107940654391492608_n-768x512.jpg 768w, /wp-content/uploads/2017/07/76905060_2393742084175911_3107940654391492608_n-1536x1024.jpg 1536w, /wp-content/uploads/2017/07/76905060_2393742084175911_3107940654391492608_n-600x400.jpg 600w" sizes="(max-width: 1875px) 100vw, 1875px" /></a>
+<a data-elementor-open-lightbox="yes" data-elementor-lightbox-slideshow="f1d1fb7" e-action-hash="#elementor-action%3Aaction%3Dlightbox%26settings%3DeyJpZCI6MTMxODksInVybCI6Imh0dHBzOlwvXC9neXVtcmkudGVjaFwvd3AtY29udGVudFwvdXBsb2Fkc1wvMjAxN1wvMDdcLzc4MDk5NzUzXzIzOTM3NDIyOTA4NDI1NTdfNTY4NTM3NDU2MzM1ODA4MTAyNF9uLmpwZyIsInNsaWRlc2hvdyI6ImYxZDFmYjcifQ%3D%3D" href='/wp-content/uploads/2017/07/78099753_2393742290842557_5685374563358081024_n.jpg'><img width="1875" height="1250" src="/wp-content/uploads/2017/07/78099753_2393742290842557_5685374563358081024_n.jpg" class="attachment-full size-full" alt="" decoding="async" loading="lazy" srcset="/wp-content/uploads/2017/07/78099753_2393742290842557_5685374563358081024_n.jpg 1875w, /wp-content/uploads/2017/07/78099753_2393742290842557_5685374563358081024_n-300x200.jpg 300w, /wp-content/uploads/2017/07/78099753_2393742290842557_5685374563358081024_n-1024x683.jpg 1024w, /wp-content/uploads/2017/07/78099753_2393742290842557_5685374563358081024_n-768x512.jpg 768w, /wp-content/uploads/2017/07/78099753_2393742290842557_5685374563358081024_n-1536x1024.jpg 1536w, /wp-content/uploads/2017/07/78099753_2393742290842557_5685374563358081024_n-600x400.jpg 600w" sizes="(max-width: 1875px) 100vw, 1875px" /></a>
+<a data-elementor-open-lightbox="yes" data-elementor-lightbox-slideshow="f1d1fb7" e-action-hash="#elementor-action%3Aaction%3Dlightbox%26settings%3DeyJpZCI6MTMxOTEsInVybCI6Imh0dHBzOlwvXC9neXVtcmkudGVjaFwvd3AtY29udGVudFwvdXBsb2Fkc1wvMjAxN1wvMDdcLzc3MjgzODM5XzIzOTM3NDIwMDQxNzU5MTlfMzM2MDU4MTU4NzIwMzc4NDcwNF9uLmpwZyIsInNsaWRlc2hvdyI6ImYxZDFmYjcifQ%3D%3D" href='/wp-content/uploads/2017/07/77283839_2393742004175919_3360581587203784704_n.jpg'><img width="1875" height="1250" src="/wp-content/uploads/2017/07/77283839_2393742004175919_3360581587203784704_n.jpg" class="attachment-full size-full" alt="" decoding="async" loading="lazy" srcset="/wp-content/uploads/2017/07/77283839_2393742004175919_3360581587203784704_n.jpg 1875w, /wp-content/uploads/2017/07/77283839_2393742004175919_3360581587203784704_n-300x200.jpg 300w, /wp-content/uploads/2017/07/77283839_2393742004175919_3360581587203784704_n-1024x683.jpg 1024w, /wp-content/uploads/2017/07/77283839_2393742004175919_3360581587203784704_n-768x512.jpg 768w, /wp-content/uploads/2017/07/77283839_2393742004175919_3360581587203784704_n-1536x1024.jpg 1536w, /wp-content/uploads/2017/07/77283839_2393742004175919_3360581587203784704_n-600x400.jpg 600w" sizes="(max-width: 1875px) 100vw, 1875px" /></a>
+<a data-elementor-open-lightbox="yes" data-elementor-lightbox-slideshow="f1d1fb7" e-action-hash="#elementor-action%3Aaction%3Dlightbox%26settings%3DeyJpZCI6MTMxODYsInVybCI6Imh0dHBzOlwvXC9neXVtcmkudGVjaFwvd3AtY29udGVudFwvdXBsb2Fkc1wvMjAxN1wvMDdcLzc4MzU1NTgxXzIzOTM3NDI1NTc1MDkxOTdfMjM2NDE4NDE4NzEwNTE4MTY5Nl9uLmpwZyIsInNsaWRlc2hvdyI6ImYxZDFmYjcifQ%3D%3D" href='/wp-content/uploads/2017/07/78355581_2393742557509197_2364184187105181696_n.jpg'><img width="1875" height="1250" src="/wp-content/uploads/2017/07/78355581_2393742557509197_2364184187105181696_n.jpg" class="attachment-full size-full" alt="" decoding="async" loading="lazy" srcset="/wp-content/uploads/2017/07/78355581_2393742557509197_2364184187105181696_n.jpg 1875w, /wp-content/uploads/2017/07/78355581_2393742557509197_2364184187105181696_n-300x200.jpg 300w, /wp-content/uploads/2017/07/78355581_2393742557509197_2364184187105181696_n-1024x683.jpg 1024w, /wp-content/uploads/2017/07/78355581_2393742557509197_2364184187105181696_n-768x512.jpg 768w, /wp-content/uploads/2017/07/78355581_2393742557509197_2364184187105181696_n-1536x1024.jpg 1536w, /wp-content/uploads/2017/07/78355581_2393742557509197_2364184187105181696_n-600x400.jpg 600w" sizes="(max-width: 1875px) 100vw, 1875px" /></a>
+<a data-elementor-open-lightbox="yes" data-elementor-lightbox-slideshow="f1d1fb7" e-action-hash="#elementor-action%3Aaction%3Dlightbox%26settings%3DeyJpZCI6MTMxODUsInVybCI6Imh0dHBzOlwvXC9neXVtcmkudGVjaFwvd3AtY29udGVudFwvdXBsb2Fkc1wvMjAxN1wvMDdcLzc4NDM0NjMwXzIzOTM3NDI4MzQxNzU4MzZfMjgzMzgwNjgyMDQ2Njc1MzUzNl9uLmpwZyIsInNsaWRlc2hvdyI6ImYxZDFmYjcifQ%3D%3D" href='/wp-content/uploads/2017/07/78434630_2393742834175836_2833806820466753536_n.jpg'><img width="1875" height="1250" src="/wp-content/uploads/2017/07/78434630_2393742834175836_2833806820466753536_n.jpg" class="attachment-full size-full" alt="" decoding="async" loading="lazy" srcset="/wp-content/uploads/2017/07/78434630_2393742834175836_2833806820466753536_n.jpg 1875w, /wp-content/uploads/2017/07/78434630_2393742834175836_2833806820466753536_n-300x200.jpg 300w, /wp-content/uploads/2017/07/78434630_2393742834175836_2833806820466753536_n-1024x683.jpg 1024w, /wp-content/uploads/2017/07/78434630_2393742834175836_2833806820466753536_n-768x512.jpg 768w, /wp-content/uploads/2017/07/78434630_2393742834175836_2833806820466753536_n-1536x1024.jpg 1536w, /wp-content/uploads/2017/07/78434630_2393742834175836_2833806820466753536_n-600x400.jpg 600w" sizes="(max-width: 1875px) 100vw, 1875px" /></a>
+<a data-elementor-open-lightbox="yes" data-elementor-lightbox-slideshow="f1d1fb7" e-action-hash="#elementor-action%3Aaction%3Dlightbox%26settings%3DeyJpZCI6MTMxOTUsInVybCI6Imh0dHBzOlwvXC9neXVtcmkudGVjaFwvd3AtY29udGVudFwvdXBsb2Fkc1wvMjAxN1wvMDdcLzQyNjg3NjE3XzIxMjM3NDQ5MDQ1MDg5NjVfMjMwMzI4NTA4NTYwNTk4NjMwNF9uLmpwZyIsInNsaWRlc2hvdyI6ImYxZDFmYjcifQ%3D%3D" href='/wp-content/uploads/2017/07/42687617_2123744904508965_2303285085605986304_n.jpg'><img width="2048" height="1367" src="/wp-content/uploads/2017/07/42687617_2123744904508965_2303285085605986304_n.jpg" class="attachment-full size-full" alt="" decoding="async" loading="lazy" srcset="/wp-content/uploads/2017/07/42687617_2123744904508965_2303285085605986304_n.jpg 2048w, /wp-content/uploads/2017/07/42687617_2123744904508965_2303285085605986304_n-300x200.jpg 300w, /wp-content/uploads/2017/07/42687617_2123744904508965_2303285085605986304_n-1024x684.jpg 1024w, /wp-content/uploads/2017/07/42687617_2123744904508965_2303285085605986304_n-768x513.jpg 768w, /wp-content/uploads/2017/07/42687617_2123744904508965_2303285085605986304_n-1536x1025.jpg 1536w, /wp-content/uploads/2017/07/42687617_2123744904508965_2303285085605986304_n-600x400.jpg 600w" sizes="(max-width: 2048px) 100vw, 2048px" /></a>
+<a data-elementor-open-lightbox="yes" data-elementor-lightbox-slideshow="f1d1fb7" e-action-hash="#elementor-action%3Aaction%3Dlightbox%26settings%3DeyJpZCI6MTMxOTAsInVybCI6Imh0dHBzOlwvXC9neXVtcmkudGVjaFwvd3AtY29udGVudFwvdXBsb2Fkc1wvMjAxN1wvMDdcLzc3MzA1NjU4XzIzOTM3NDE3NDc1MDkyNzhfMzc0MTg5MzIwMzI2NDAxMjI4OF9uLmpwZyIsInNsaWRlc2hvdyI6ImYxZDFmYjcifQ%3D%3D" href='/wp-content/uploads/2017/07/77305658_2393741747509278_3741893203264012288_n.jpg'><img width="1260" height="945" src="/wp-content/uploads/2017/07/77305658_2393741747509278_3741893203264012288_n.jpg" class="attachment-full size-full" alt="" decoding="async" loading="lazy" srcset="/wp-content/uploads/2017/07/77305658_2393741747509278_3741893203264012288_n.jpg 1260w, /wp-content/uploads/2017/07/77305658_2393741747509278_3741893203264012288_n-300x225.jpg 300w, /wp-content/uploads/2017/07/77305658_2393741747509278_3741893203264012288_n-1024x768.jpg 1024w, /wp-content/uploads/2017/07/77305658_2393741747509278_3741893203264012288_n-768x576.jpg 768w, /wp-content/uploads/2017/07/77305658_2393741747509278_3741893203264012288_n-600x450.jpg 600w" sizes="(max-width: 1260px) 100vw, 1260px" /></a>
+		</div>
+				</div>
+				</div>
+					</div>
+		</div>
+							</div>
+		</section>
+							</div>
+		]]></content:encoded>
+					
+					<wfw:commentRss>/boosting-technological-developments-in-shirak-region/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

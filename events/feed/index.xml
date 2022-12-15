@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Events &#8211; GITC</title>
+	<atom:link href="/events/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Information Technologies Center</description>
+	<lastBuildDate>Thu, 01 Dec 2022 16:32:33 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.1.1</generator>
+
+<image>
+	<url>/wp-content/uploads/2022/09/cropped-268407021_2969773193239461_6353362885231601_n-32x32.jpg</url>
+	<title>Events &#8211; GITC</title>
+	<link>/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>TEST Drive</title>
+		<link>/events/good-intentions-or-good-results-2/</link>
+					<comments>/events/good-intentions-or-good-results-2/#respond</comments>
+		
+		<dc:creator><![CDATA[amalya]]></dc:creator>
+		<pubDate>Sat, 19 Nov 2022 09:07:16 +0000</pubDate>
+				<guid isPermaLink="false">/?post_type=tp_event&#038;p=13333</guid>
+
+					<description><![CDATA[GITC-ն նոյեմբերի 27-ին, ժամը 12։00-ին բոլորին սիրով հրավիրում է մասնակցելու TEST Drive-ի Ստեփանավանում]]></description>
+										<content:encoded><![CDATA[<p>GITC-ն նոյեմբերի 27-ին, ժամը 12։00-ին բոլորին սիրով հրավիրում է մասնակցելու TEST Drive-ի Ստեփանավանում որի ժամանակ կփորձարկվի GITC-ի ինժեներական կրթական ծրագրի մասնակիցների կողմից նախագծած և պատրաստած buggy տեսակի ավտոմեքենան GITC-ն կհոգա մասնակիցների անվճար տեղափոխումը:</p>
+<p>Իսկ անակնկալներով լի լավ ժամանակ անցկացնելը երաշխավորում ենք։</p>
+<p>Մուտքը ազատ է Գրանցվելու համար անցեք հղումով․․․ <a class="waffle-rich-text-link" href="https://www.eventbrite.com/e/test-drive-tickets-467154269997?fbclid=IwAR2mIZpDqzSUVsdRaPNPzlcceobYtS2OywIjjXEkXcMN7bFWUqWge2XZsHY">https://www.eventbrite.com/e/test-drive-tickets-467154269997?fbclid=IwAR2mIZpDqzSUVsdRaPNPzlcceobYtS2OywIjjXEkXcMN7bFWUqWge2XZsHY</a></p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/events/good-intentions-or-good-results-2/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>
